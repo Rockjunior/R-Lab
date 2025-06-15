@@ -1,0 +1,6 @@
+library(tidyverse)
+library(gapminder)
+view(gapminder)
+str(gapminder)
+
+?gapminder

@@ -1,0 +1,26 @@
+{
+    "id": "F64C5B98",
+    "path": "~/GitHub/R-Projects/Regression_Models/Linear_Regression_Models/gapminder.R",
+    "project_path": "Regression_Models/Linear_Regression_Models/gapminder.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1750004607413.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1750004606,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1750004857284,
+    "read_only": false,
+    "read_only_alternatives": []
+}
