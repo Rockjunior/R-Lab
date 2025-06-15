@@ -1,6 +1,0 @@
----
-title: "README"
-output: html_document
----
-
-## Non-Linear Regression Models
