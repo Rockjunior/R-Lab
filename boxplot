@@ -1,4 +1,0 @@
-library(ggpubr)
-#density plot with mean lines and marginal rug
-ggdensity(iris, x = "Sepal.Length", add = "mean", rug = TRUE,color = "Species", fill = "Species", palette = "jco")
-
