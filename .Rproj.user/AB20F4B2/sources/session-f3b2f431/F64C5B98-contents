@@ -4,3 +4,5 @@ view(gapminder)
 str(gapminder)
 
 ?gapminder
+
+summarize(gapminder)
