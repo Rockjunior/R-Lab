@@ -1,0 +1,1001 @@
+Transaction ID,Store Name,Customer ID,Customer Age,Product ID,Product Category,Transaction Date,Payment Method,Shipping Address,City,Country,Coupon Used,Quantity Sold,Unit Price,Total Price,Discount Applied,Net Price
+99673,Urban Goods,1870,63,129,Clothing,2024-03-28,Credit Card,67948 Paul Highway,Hortonberg,Nicaragua,SPRING10,4,45,180,18,162
+85713,Basic Depot,1394,29,190,Clothing,2024-04-10,PayPal,6853 Christopher Walks,North Anthony,Pakistan,SUMMER20,4,70,280,56,224
+50484,Essential Mart,6311,49,121,Books,2024-03-30,PayPal,451 Elizabeth Well Suite 140,Zamoraport,Uganda,SUMMER20,5,165,825,165,660
+68055,Essential Mart,9951,55,118,Electronics,2024-04-18,PayPal,18742 Jordan Neck Apt. 702,Susanchester,Jamaica,SUMMER20,3,102,306,61,245
+67413,Urban Goods,9308,46,185,Home & Garden,2024-04-10,Credit Card,32926 Davis Lock Suite 430,Lake Bruce,Latvia,SPRING10,3,185,555,56,499
+14266,Basic Depot,4042,28,169,Clothing,2024-04-21,PayPal,653 Shaun Mountains,Greenmouth,Uruguay,FALL15,3,198,594,89,505
+87845,Basic Depot,7304,23,143,Electronics,2024-04-22,Credit Card,438 Garrett Road,New Mike,Jamaica,SPRING10,2,199,398,40,358
+34432,Basic Depot,7821,22,166,Electronics,2024-04-03,PayPal,5467 Angel Flat,Dixonland,Chad,SUMMER20,1,58,58,12,46
+74882,Basic Depot,3040,22,190,Books,2024-04-08,PayPal,7852 Warren Drive,South Michelle,Liechtenstein,FALL15,5,41,205,31,174
+34474,Urban Goods,1881,62,192,Electronics,2024-04-16,Credit Card,39162 Jill Passage,West Andrew,Azerbaijan,SUMMER20,4,45,180,36,144
+32142,Urban Goods,6004,26,114,Electronics,2024-04-17,PayPal,777 Rachel Dam Suite 963,Brianport,Andorra,FALL15,2,110,220,33,187
+92468,Pure Market,2958,39,139,Home & Garden,2024-04-15,PayPal,063 Zachary Unions Apt. 329,East Lauren,India,SUMMER20,5,148,740,148,592
+35854,Pure Market,6677,59,160,Clothing,2024-04-25,PayPal,084 Cervantes Island Suite 147,Lake Sara,Lebanon,SUMMER20,2,41,82,16,66
+62822,Urban Goods,8741,29,133,Clothing,2024-04-05,Credit Card,48564 Kelly Via Suite 783,East Lisa,Antarctica (the territory South of 60 deg S),None,4,53,212,0,212
+90848,Pure Market,5629,58,105,Books,2024-04-19,PayPal,48505 Lawson Street,West Stephaniemouth,Japan,SUMMER20,2,164,328,66,262
+21002,Pure Market,8110,53,189,Books,2024-04-23,Credit Card,044 Ryan Fords,Hallville,Togo,SPRING10,1,108,108,11,97
+11093,Essential Mart,3051,39,115,Clothing,2024-03-29,PayPal,2316 Cook Heights Apt. 443,East Elizabeth,Argentina,SPRING10,3,95,285,28,257
+25885,Essential Mart,9340,31,187,Books,2024-04-09,PayPal,8234 George Parks,Paulfort,Slovenia,None,4,188,752,0,752
+20125,Urban Goods,2391,50,153,Clothing,2024-03-28,PayPal,6941 Harris Forges Suite 296,Bryantfort,Australia,None,1,185,185,0,185
+22338,Basic Depot,1612,55,199,Books,2024-04-01,Credit Card,8256 Wallace Streets,Lindseyshire,Cote d'Ivoire,FALL15,5,120,600,90,510
+78737,Urban Goods,4461,34,156,Books,2024-04-07,PayPal,60069 Rachel View,New Matthewborough,Syrian Arab Republic,SUMMER20,1,62,62,12,50
+66260,Urban Goods,2749,43,131,Home & Garden,2024-04-17,PayPal,6714 Jackson Port,Teresaburgh,South Africa,None,3,88,264,0,264
+28863,Basic Depot,2970,33,155,Clothing,2024-04-22,Credit Card,37302 James Road,Lake Charles,China,SPRING10,3,65,195,20,175
+50212,Basic Depot,1471,30,117,Clothing,2024-03-28,PayPal,4604 Donald Creek,Amandaburgh,Gabon,FALL15,2,129,258,39,219
+67564,Pure Market,5953,27,160,Clothing,2024-03-30,Credit Card,5902 Joseph Ferry,North Edwinbury,Albania,None,3,197,591,0,591
+30060,Basic Depot,7786,41,174,Electronics,2024-04-16,PayPal,002 Christopher Spring,Port Christopher,Bhutan,SUMMER20,4,86,344,69,275
+39741,Essential Mart,2024,42,173,Books,2024-04-11,PayPal,53887 Roy Stravenue,West Katie,Syrian Arab Republic,None,1,120,120,0,120
+65935,Urban Goods,6202,41,136,Books,2024-04-22,PayPal,703 Burke Harbor Apt. 597,East Williamstad,Libyan Arab Jamahiriya,SPRING10,5,86,430,43,387
+23244,Basic Depot,3013,42,190,Books,2024-04-08,Credit Card,76715 Keith Squares Apt. 316,Ashleyview,French Guiana,FALL15,2,54,108,16,92
+62214,Essential Mart,4194,29,111,Clothing,2024-04-24,PayPal,53522 Tyler Motorway Apt. 093,Port Johnny,Bouvet Island (Bouvetoya),FALL15,2,28,56,8,48
+78092,Urban Goods,8155,63,157,Clothing,2024-04-07,Credit Card,680 Reyes Drive,Andersonmouth,Isle of Man,SUMMER20,4,105,420,84,336
+55948,Pure Market,9075,41,129,Home & Garden,2024-04-06,Credit Card,798 Frank Keys,Zacharymouth,Belgium,FALL15,1,119,119,18,101
+48825,Pure Market,6111,44,140,Home & Garden,2024-04-11,Credit Card,726 Kelly Lodge,North Davidfort,Malaysia,FALL15,4,181,724,109,615
+87917,Urban Goods,9927,35,178,Clothing,2024-04-14,Credit Card,84198 Kyle River Suite 641,Masseyport,South Africa,SUMMER20,3,71,213,43,170
+21135,Pure Market,3465,30,199,Electronics,2024-04-06,PayPal,9382 Jason Ridges Suite 686,Lake Jeffreyburgh,Suriname,FALL15,1,32,32,5,27
+84752,Urban Goods,1856,63,144,Clothing,2024-04-06,Credit Card,37564 John Summit,Chanside,Macao,SPRING10,1,143,143,14,129
+75706,Basic Depot,8578,50,159,Electronics,2024-04-12,Credit Card,40950 Logan Forges Apt. 165,Parrishshire,Armenia,FALL15,4,71,284,43,241
+47540,Pure Market,9144,56,191,Home & Garden,2024-04-11,Credit Card,77124 Murray Corners Suite 396,West Thomas,Cocos (Keeling) Islands,FALL15,4,122,488,73,415
+95950,Pure Market,9802,57,140,Electronics,2024-04-18,PayPal,34042 Becky Trace,Jeanborough,Togo,SUMMER20,3,174,522,104,418
+69712,Essential Mart,3382,22,182,Electronics,2024-04-14,Credit Card,6298 Brewer Cliff,East Loriberg,Mauritania,FALL15,1,118,118,18,100
+79287,Essential Mart,2808,59,105,Clothing,2024-04-05,Credit Card,6478 Stanley Causeway,New Markland,Cambodia,SUMMER20,2,57,114,23,91
+79183,Basic Depot,4145,56,116,Books,2024-04-03,PayPal,81731 Gonzales Rue,Livingstonbury,Saint Kitts and Nevis,SUMMER20,4,126,504,101,403
+52987,Pure Market,8855,57,144,Electronics,2024-04-15,PayPal,5671 Lloyd Crossing Suite 507,Lake Jacob,Niue,FALL15,1,47,47,7,40
+79818,Pure Market,5430,48,199,Electronics,2024-04-20,PayPal,52308 Lee Court Apt. 911,Dayhaven,Norway,None,1,151,151,0,151
+88833,Pure Market,9412,50,124,Home & Garden,2024-04-19,Credit Card,542 Benson Cove,Port Mathewchester,Cook Islands,SPRING10,2,45,90,9,81
+46414,Pure Market,2754,60,119,Books,2024-04-01,Credit Card,4140 Hooper Park,Ricardoton,Zimbabwe,SPRING10,3,130,390,39,351
+45961,Pure Market,8826,30,135,Clothing,2024-04-17,PayPal,588 Joel Locks Suite 636,Debraton,Azerbaijan,SUMMER20,2,123,246,49,197
+88955,Urban Goods,7362,37,186,Books,2024-04-03,PayPal,19856 Daniel Plains Apt. 438,New Christopher,Poland,SUMMER20,3,197,591,118,473
+96186,Urban Goods,8593,53,104,Home & Garden,2024-04-20,Credit Card,7092 Tracy Grove Suite 520,Evansview,Pitcairn Islands,SPRING10,4,55,220,22,198
+41006,Pure Market,1550,65,149,Electronics,2024-04-10,Credit Card,93724 Harrison Parkways,Bethberg,Cambodia,SUMMER20,1,109,109,22,87
+96419,Urban Goods,9895,51,152,Electronics,2024-03-30,Credit Card,2183 Philip Forges,New Paula,Bouvet Island (Bouvetoya),SUMMER20,3,40,120,24,96
+98179,Essential Mart,2897,35,191,Home & Garden,2024-04-03,Credit Card,06367 Howard Trafficway,Markburgh,Gambia,SPRING10,4,178,712,71,641
+22683,Basic Depot,4576,57,182,Home & Garden,2024-03-30,Credit Card,12161 Robert Lake,Lake Charleshaven,Tuvalu,FALL15,3,115,345,52,293
+57832,Urban Goods,3675,46,141,Home & Garden,2024-04-15,PayPal,56716 Turner Lights,East Kevinport,Zambia,SUMMER20,5,193,965,193,772
+89119,Essential Mart,3525,22,161,Books,2024-04-13,PayPal,466 Mitchell Bypass Suite 047,Nathanborough,Bosnia and Herzegovina,None,2,81,162,0,162
+86414,Basic Depot,9646,34,158,Clothing,2024-04-07,PayPal,626 Bell Ville Apt. 703,Port Audrey,Lebanon,None,3,42,126,0,126
+90671,Pure Market,2983,51,157,Books,2024-03-29,Credit Card,86886 Joshua Mill Suite 415,East Ericatown,Romania,SUMMER20,4,162,648,130,518
+81236,Pure Market,1298,50,192,Home & Garden,2024-04-11,Credit Card,1598 Keith Station Apt. 550,Christinaview,Bangladesh,FALL15,3,143,429,64,365
+94976,Essential Mart,2008,31,133,Books,2024-04-12,Credit Card,5331 Katherine Pass,Andrewtown,Gabon,None,3,97,291,0,291
+46170,Essential Mart,3350,35,123,Clothing,2024-04-09,PayPal,4725 Anderson Court,Debbiefurt,Central African Republic,FALL15,1,141,141,21,120
+18003,Basic Depot,4651,54,167,Home & Garden,2024-04-15,Credit Card,24087 Sanders Ramp Suite 745,Rochaberg,Chad,SPRING10,2,194,388,39,349
+70779,Essential Mart,3153,50,115,Home & Garden,2024-04-22,PayPal,8103 Valerie Hill Apt. 305,Bryanberg,Guinea,FALL15,5,71,355,53,302
+40403,Basic Depot,1423,26,104,Clothing,2024-04-01,Credit Card,515 Patrick Islands Suite 422,Port Michele,Iraq,SPRING10,1,169,169,17,152
+20005,Urban Goods,9261,28,171,Home & Garden,2024-03-30,PayPal,29382 Nicole Radial Apt. 506,New Tammy,Suriname,FALL15,3,126,378,57,321
+53214,Urban Goods,6918,57,135,Clothing,2024-04-08,PayPal,67758 Amber Mall,Wendyville,Indonesia,SPRING10,3,135,405,40,365
+47917,Urban Goods,6607,27,114,Electronics,2024-04-07,Credit Card,064 Lori Mountains Apt. 389,Jeffreyberg,United States of America,None,3,130,390,0,390
+54265,Urban Goods,1799,65,141,Home & Garden,2024-04-20,PayPal,9882 Hayes Expressway,West Margaret,Panama,FALL15,3,115,345,52,293
+77736,Basic Depot,7989,63,111,Home & Garden,2024-04-10,Credit Card,4577 Shannon Turnpike,New Jacobmouth,Mayotte,None,3,182,546,0,546
+61889,Essential Mart,7280,37,184,Electronics,2024-04-05,PayPal,27723 Austin Springs Apt. 236,Robertmouth,Slovakia (Slovak Republic),SPRING10,1,145,145,14,131
+84667,Urban Goods,2060,59,170,Home & Garden,2024-04-09,Credit Card,792 Williams Park Apt. 984,East Jamesshire,Cyprus,None,1,174,174,0,174
+64924,Essential Mart,3180,23,195,Electronics,2024-04-22,Credit Card,95785 Frances Cape Suite 042,Brooksmouth,North Macedonia,FALL15,1,185,185,28,157
+94287,Basic Depot,1096,26,149,Electronics,2024-03-28,PayPal,97446 Teresa Hill,South Timothy,Central African Republic,FALL15,2,133,266,40,226
+13281,Basic Depot,8426,27,181,Electronics,2024-04-04,PayPal,927 Peters Spring,Ericville,Venezuela,None,3,84,252,0,252
+29779,Pure Market,6736,49,158,Clothing,2024-04-05,PayPal,778 Dakota Roads Apt. 652,Gomezfurt,Cambodia,SUMMER20,1,80,80,16,64
+17326,Pure Market,9009,34,124,Books,2024-04-07,Credit Card,90227 Travis Stravenue,East Sabrina,Austria,SUMMER20,2,91,182,36,146
+13624,Pure Market,5756,41,116,Books,2024-04-19,Credit Card,7679 Johnson Forge,Kimberlyfurt,Lebanon,None,1,157,157,0,157
+71912,Urban Goods,1094,22,124,Clothing,2024-04-03,Credit Card,654 Anderson Light,Lamberttown,Martinique,None,2,26,52,0,52
+69690,Basic Depot,7908,29,125,Clothing,2024-04-06,Credit Card,6542 Walker Pike Suite 069,East Gina,Solomon Islands,SUMMER20,2,163,326,65,261
+79400,Urban Goods,6972,38,155,Electronics,2024-04-04,PayPal,47218 Wood Ferry,Diamondberg,Cocos (Keeling) Islands,FALL15,4,37,148,22,126
+10035,Pure Market,2967,52,103,Home & Garden,2024-04-12,PayPal,0720 Houston Circle Apt. 292,Emmachester,Switzerland,SUMMER20,1,124,124,25,99
+87051,Urban Goods,2092,44,197,Home & Garden,2024-04-17,PayPal,95407 Gonzales Center,Matthewberg,Burkina Faso,None,2,173,346,0,346
+40849,Basic Depot,7713,33,107,Books,2024-03-31,PayPal,70109 Zamora Rapid Apt. 252,Vanceville,United Kingdom,SUMMER20,3,27,81,16,65
+18410,Urban Goods,3710,62,134,Books,2024-04-02,Credit Card,248 Zamora Port Suite 568,Port Lauren,Italy,SPRING10,4,157,628,63,565
+88249,Essential Mart,1694,32,156,Clothing,2024-04-12,PayPal,12847 Anna Shore,Zacharyside,Turkey,SPRING10,5,199,995,100,895
+18713,Essential Mart,9569,42,140,Books,2024-04-05,Credit Card,62097 Jacob Camp Apt. 213,Port Sandraside,Ukraine,SPRING10,5,74,370,37,333
+72763,Essential Mart,1101,51,149,Clothing,2024-04-17,Credit Card,347 Joshua Flat,North James,Cambodia,FALL15,2,44,88,13,75
+99742,Pure Market,5903,61,111,Clothing,2024-04-22,PayPal,3870 Smith Cliffs Apt. 344,Barnesview,Guatemala,None,3,148,444,0,444
+68360,Essential Mart,6929,33,194,Home & Garden,2024-04-08,Credit Card,5774 Mary Light Apt. 346,New Chad,Turks and Caicos Islands,SPRING10,2,150,300,30,270
+59109,Pure Market,4072,52,182,Home & Garden,2024-04-07,PayPal,1862 Pamela Cliff,Johnland,Uganda,SPRING10,4,43,172,17,155
+41143,Essential Mart,7338,31,137,Clothing,2024-04-15,Credit Card,4419 Cunningham Via,West Harry,Cote d'Ivoire,SPRING10,4,62,248,25,223
+84184,Urban Goods,3620,30,105,Electronics,2024-04-14,Credit Card,37955 Isabel Crescent Suite 633,North Robert,Saint Kitts and Nevis,FALL15,3,48,144,22,122
+11262,Essential Mart,7631,55,166,Clothing,2024-04-13,PayPal,14149 Randall Square Suite 433,Wrightfurt,Suriname,None,4,94,376,0,376
+22843,Basic Depot,6867,37,106,Books,2024-03-27,PayPal,44374 Reynolds Place,Daniellemouth,Guam,SPRING10,3,57,171,17,154
+85418,Pure Market,2863,56,149,Clothing,2024-04-06,PayPal,76802 Smith Loop,West Jennifer,Burundi,SPRING10,1,54,54,5,49
+94993,Essential Mart,6117,24,175,Home & Garden,2024-03-27,PayPal,9367 Mendez Lake Apt. 006,East John,Pitcairn Islands,FALL15,1,35,35,5,30
+20787,Urban Goods,4727,39,156,Home & Garden,2024-04-04,Credit Card,25525 Barker Inlet Apt. 419,Port Thomas,Belgium,SUMMER20,2,153,306,61,245
+47024,Basic Depot,7157,59,152,Electronics,2024-04-19,PayPal,2002 Roth Views,Lake Kevin,Turkey,SPRING10,1,117,117,12,105
+85287,Essential Mart,2059,28,183,Electronics,2024-04-21,PayPal,2724 Erica Burgs Suite 357,Aaronside,Korea,SPRING10,5,22,110,11,99
+80759,Essential Mart,5562,64,124,Electronics,2024-04-24,PayPal,857 Parker Pike,North Harrybury,Isle of Man,FALL15,4,108,432,65,367
+39251,Urban Goods,7758,59,158,Electronics,2024-03-28,Credit Card,163 Hogan Mountains,Lake Jill,Sierra Leone,FALL15,4,44,176,26,150
+75177,Pure Market,2402,43,187,Clothing,2024-04-01,PayPal,180 Cox Village,South Jane,Indonesia,SUMMER20,5,168,840,168,672
+46021,Pure Market,5285,49,142,Electronics,2024-04-17,Credit Card,692 Norris Shore,Longfurt,Papua New Guinea,SPRING10,2,37,74,7,67
+15611,Essential Mart,1571,58,190,Home & Garden,2024-04-20,PayPal,91937 Charles Underpass,Craigton,Equatorial Guinea,None,1,61,61,0,61
+86323,Essential Mart,1394,32,149,Home & Garden,2024-04-09,PayPal,4429 Nielsen Isle,Port Joshua,Nicaragua,None,5,194,970,0,970
+48685,Urban Goods,5869,28,136,Electronics,2024-04-07,Credit Card,21087 Joseph Parkways Suite 908,Port Charleston,Samoa,SPRING10,3,88,264,26,238
+51717,Basic Depot,5739,44,199,Books,2024-03-31,Credit Card,63633 Greer Curve Suite 108,New Lori,Namibia,FALL15,5,190,950,142,808
+69868,Pure Market,4689,45,166,Books,2024-04-23,PayPal,57725 Joshua Crossing Suite 413,West Robertmouth,Cyprus,None,3,106,318,0,318
+84446,Essential Mart,1715,55,195,Electronics,2024-03-27,Credit Card,184 Rogers Trail,East Charles,Mayotte,SUMMER20,5,172,860,172,688
+62299,Essential Mart,5479,35,171,Books,2024-04-24,PayPal,0497 Mooney Fields,Port Matthewmouth,Algeria,None,3,137,411,0,411
+77566,Pure Market,9129,35,192,Home & Garden,2024-04-20,PayPal,82472 Alexander Mall Apt. 566,Cowanburgh,Trinidad and Tobago,FALL15,1,31,31,5,26
+34701,Basic Depot,3997,47,183,Electronics,2024-03-29,PayPal,732 Mark Lock Apt. 990,Turnermouth,Antarctica (the territory South of 60 deg S),SPRING10,3,180,540,54,486
+58069,Pure Market,8888,38,199,Books,2024-04-25,PayPal,5907 Alvarado Throughway,Saraborough,Gabon,SPRING10,3,190,570,57,513
+57211,Essential Mart,3074,42,155,Electronics,2024-03-28,Credit Card,89406 Katherine Roads,New Kathryn,Cameroon,SUMMER20,2,35,70,14,56
+56162,Basic Depot,2496,58,143,Home & Garden,2024-04-19,Credit Card,4772 Joshua Isle,South Edwin,Panama,None,1,41,41,0,41
+68106,Pure Market,2597,23,129,Clothing,2024-04-10,Credit Card,7000 Anna Brooks,Phillipsview,Cambodia,SUMMER20,1,156,156,31,125
+22535,Basic Depot,6501,29,112,Electronics,2024-04-10,Credit Card,46246 Michelle Vista Apt. 064,Lake Lori,Saint Kitts and Nevis,SUMMER20,4,139,556,111,445
+56828,Pure Market,4978,55,186,Electronics,2024-04-02,Credit Card,75959 Tyrone Loaf,Nunezhaven,Montserrat,SPRING10,3,53,159,16,143
+25059,Urban Goods,7528,32,162,Home & Garden,2024-04-09,PayPal,017 Goodwin Estates,Dakotaville,Liberia,SPRING10,3,67,201,20,181
+56037,Pure Market,5226,35,130,Electronics,2024-04-10,Credit Card,30153 Moyer Tunnel,East Jamie,Heard Island and McDonald Islands,SUMMER20,2,47,94,19,75
+38028,Urban Goods,4888,46,167,Books,2024-04-14,Credit Card,1905 Wendy Parkway Apt. 518,Lake Marymouth,Marshall Islands,None,1,84,84,0,84
+81640,Basic Depot,7533,38,150,Clothing,2024-04-24,PayPal,1258 Karen Lake,Mathewchester,Northern Mariana Islands,FALL15,1,148,148,22,126
+61665,Pure Market,4384,39,197,Electronics,2024-04-14,PayPal,133 Steven Brook Apt. 058,Mayohaven,Lao People's Democratic Republic,FALL15,3,110,330,50,280
+11944,Essential Mart,5202,33,170,Clothing,2024-04-01,Credit Card,56275 King Estate Apt. 068,Thorntonberg,Cook Islands,SUMMER20,1,121,121,24,97
+26755,Essential Mart,5816,46,169,Clothing,2024-04-14,Credit Card,52294 Denise Junction Apt. 966,Wilsonberg,Greenland,SPRING10,1,50,50,5,45
+66296,Urban Goods,4096,24,109,Electronics,2024-03-27,Credit Card,95706 Corey Rue Suite 399,Kellyton,Paraguay,FALL15,5,107,535,80,455
+60003,Pure Market,2390,25,163,Electronics,2024-03-28,PayPal,561 Carla Creek,Turnerbury,Moldova,SPRING10,5,72,360,36,324
+59120,Urban Goods,7648,56,188,Clothing,2024-03-28,PayPal,9595 Sanders Motorway,Rachelton,Guatemala,SPRING10,1,160,160,16,144
+45470,Essential Mart,9749,59,139,Books,2024-04-16,Credit Card,015 Michelle Landing Suite 225,Michelleside,Sri Lanka,FALL15,4,109,436,65,371
+56459,Essential Mart,4743,50,108,Clothing,2024-04-06,Credit Card,6747 Justin Ranch Suite 885,Zacharyburgh,Samoa,SPRING10,1,159,159,16,143
+65531,Urban Goods,8271,48,126,Books,2024-04-09,Credit Card,25423 Christopher Meadow,Nealfort,French Southern Territories,SPRING10,5,170,850,85,765
+13286,Urban Goods,9598,52,133,Books,2024-04-22,Credit Card,335 Ashley Key Apt. 457,Gloverland,Sudan,FALL15,3,91,273,41,232
+96558,Essential Mart,5901,31,199,Electronics,2024-04-02,PayPal,970 Campbell Junctions,Port Amanda,Sierra Leone,None,5,177,885,0,885
+31339,Pure Market,5174,49,191,Books,2024-04-01,PayPal,72680 Craig Walk,Morrisonfurt,Kyrgyz Republic,SPRING10,2,62,124,12,112
+48727,Pure Market,7943,28,155,Clothing,2024-04-13,PayPal,2490 Reese Summit Apt. 201,West Jon,Sudan,None,5,22,110,0,110
+96315,Urban Goods,2733,30,134,Electronics,2024-04-16,Credit Card,7743 Timothy Fields Suite 085,East Steven,Mali,SUMMER20,4,177,708,142,566
+12691,Pure Market,5106,34,160,Clothing,2024-04-20,PayPal,16079 Smith Meadow,Port Mary,Greenland,FALL15,2,100,200,30,170
+67916,Basic Depot,4232,64,126,Home & Garden,2024-04-09,PayPal,490 Newton Valleys Apt. 673,Morgantown,Nicaragua,FALL15,2,93,186,28,158
+10973,Urban Goods,5365,62,147,Books,2024-04-10,PayPal,11211 Green Alley Apt. 339,Aaronbury,Mozambique,None,3,185,555,0,555
+94306,Pure Market,9439,31,191,Electronics,2024-03-31,Credit Card,050 Rose Road Suite 998,Williamsfort,Turkey,FALL15,3,118,354,53,301
+19623,Basic Depot,2180,60,110,Electronics,2024-04-04,PayPal,888 Dennis Street,Lake Ashleyport,Sierra Leone,SUMMER20,3,54,162,32,130
+23833,Basic Depot,3362,55,124,Books,2024-04-11,PayPal,7161 Castro Valley Apt. 393,East Amandaland,Togo,SUMMER20,2,47,94,19,75
+62490,Urban Goods,8302,33,114,Home & Garden,2024-03-27,Credit Card,512 Joe Skyway,New Brittany,United States of America,FALL15,3,133,399,60,339
+63138,Essential Mart,3646,39,144,Home & Garden,2024-04-15,PayPal,7470 Andrew Wells Suite 722,Lake Gabrielleside,Comoros,SPRING10,3,153,459,46,413
+62805,Basic Depot,7847,31,113,Books,2024-04-07,Credit Card,959 Jeffrey Cliffs,South Elizabeth,United States Virgin Islands,None,3,124,372,0,372
+38150,Urban Goods,6154,44,157,Books,2024-04-13,PayPal,73998 Nelson Tunnel,East Douglas,New Zealand,FALL15,2,130,260,39,221
+20218,Essential Mart,5202,40,126,Electronics,2024-04-14,Credit Card,71061 Miller Dale,Lake Troymouth,Japan,SUMMER20,4,169,676,135,541
+40430,Essential Mart,7437,46,198,Electronics,2024-04-03,PayPal,35367 Gwendolyn Extension,West Justinbury,British Virgin Islands,SPRING10,3,80,240,24,216
+90952,Urban Goods,7244,24,179,Books,2024-04-20,PayPal,81702 Jo Station,Brownburgh,Czech Republic,SPRING10,4,45,180,18,162
+75852,Urban Goods,4749,61,188,Home & Garden,2024-04-06,PayPal,293 Mcgrath Street Apt. 271,North Ryan,Northern Mariana Islands,SUMMER20,4,65,260,52,208
+28049,Basic Depot,4214,53,149,Books,2024-04-10,PayPal,1812 Jessica Course Apt. 989,Ericksonmouth,Morocco,FALL15,4,146,584,88,496
+23351,Basic Depot,7151,42,146,Electronics,2024-04-07,PayPal,707 Tyler Mountains Apt. 331,Jamieberg,Estonia,None,1,26,26,0,26
+18175,Essential Mart,4561,53,100,Home & Garden,2024-04-23,PayPal,5670 Daniel Station Suite 802,Port Thomasburgh,Antigua and Barbuda,FALL15,1,96,96,14,82
+29671,Basic Depot,1603,28,187,Books,2024-04-13,PayPal,5807 Megan Row Suite 917,Abbottbury,Nepal,SPRING10,1,41,41,4,37
+10498,Urban Goods,7552,53,148,Books,2024-04-23,PayPal,00853 Martinez Rapids,South Robertborough,United States Virgin Islands,None,4,62,248,0,248
+15293,Basic Depot,6852,26,172,Electronics,2024-04-04,Credit Card,2072 Dustin Knolls Apt. 181,East Krystalborough,New Caledonia,FALL15,3,159,477,72,405
+24296,Basic Depot,5949,41,171,Electronics,2024-04-18,Credit Card,822 Lawrence Isle,North Elizabeth,Benin,None,1,54,54,0,54
+86775,Urban Goods,7397,34,170,Clothing,2024-04-20,PayPal,816 Mary Station,South Brian,Christmas Island,SPRING10,3,90,270,27,243
+43997,Urban Goods,4928,22,193,Home & Garden,2024-04-08,PayPal,66007 Anderson Mount Apt. 787,East Sheilahaven,Belize,SUMMER20,2,133,266,53,213
+62423,Pure Market,3006,65,186,Books,2024-04-15,PayPal,27457 Daniel Pike,New Vickie,Myanmar,None,1,25,25,0,25
+73980,Urban Goods,1675,59,197,Home & Garden,2024-03-27,PayPal,43464 Jacob Summit Apt. 489,New Austinfurt,French Guiana,None,4,90,360,0,360
+85129,Basic Depot,3615,49,149,Home & Garden,2024-04-25,Credit Card,35311 Arias Station Apt. 471,North Samuel,Timor-Leste,SPRING10,2,50,100,10,90
+13633,Urban Goods,7437,51,191,Books,2024-03-30,PayPal,5634 Cynthia Vista Suite 343,Port Sandrahaven,Sierra Leone,None,5,155,775,0,775
+72914,Basic Depot,8691,65,116,Home & Garden,2024-04-25,Credit Card,251 Aguilar Rest,Mccarthyfort,Tonga,FALL15,1,116,116,17,99
+28732,Basic Depot,6870,22,151,Electronics,2024-04-16,PayPal,281 Chen Knoll,East Elizabeth,Albania,SPRING10,5,87,435,44,391
+68114,Essential Mart,6863,59,191,Clothing,2024-04-12,Credit Card,8723 Christopher Estates,South Dianabury,Mozambique,FALL15,2,91,182,27,155
+10579,Basic Depot,4381,29,168,Books,2024-04-23,Credit Card,43707 Patricia Canyon,West Jillian,Australia,FALL15,1,20,20,3,17
+64538,Basic Depot,5637,41,139,Home & Garden,2024-03-31,PayPal,675 Alexandra Parks,New Zacharybury,Russian Federation,FALL15,1,32,32,5,27
+76322,Urban Goods,5840,64,182,Electronics,2024-04-20,PayPal,830 Michelle Springs,Carrillochester,Heard Island and McDonald Islands,FALL15,2,190,380,57,323
+90636,Basic Depot,9569,57,164,Clothing,2024-04-23,PayPal,085 Hanson Stravenue,Cummingstown,Bangladesh,SUMMER20,4,128,512,102,410
+52239,Essential Mart,6120,42,163,Clothing,2024-04-21,Credit Card,5655 Sanders Dam Suite 860,Amberstad,Palau,FALL15,5,82,410,62,348
+94899,Essential Mart,8800,46,161,Books,2024-03-28,PayPal,62939 Virginia Knoll Suite 572,Melanieview,Jamaica,SPRING10,4,116,464,46,418
+82721,Essential Mart,5305,29,119,Books,2024-04-03,PayPal,0716 Tammy Spur Apt. 050,Popeland,Monaco,None,2,74,148,0,148
+89625,Pure Market,3924,58,129,Clothing,2024-04-02,Credit Card,229 Newman Field Apt. 587,Mannview,Botswana,SPRING10,2,54,108,11,97
+15007,Pure Market,8000,48,113,Clothing,2024-04-02,Credit Card,7199 Connie Wells Suite 644,Nicholasfurt,Belize,SUMMER20,2,105,210,42,168
+72449,Basic Depot,9173,31,130,Clothing,2024-03-27,PayPal,3568 Lisa Drive,Morenoshire,Uzbekistan,None,3,162,486,0,486
+50261,Essential Mart,8516,55,179,Clothing,2024-03-28,PayPal,141 Martinez Passage Apt. 209,East Andreaton,Puerto Rico,None,2,145,290,0,290
+49681,Urban Goods,8223,35,121,Books,2024-03-29,Credit Card,550 Thomas Hill Suite 944,Josephtown,Canada,SUMMER20,5,137,685,137,548
+86122,Urban Goods,3213,48,146,Clothing,2024-04-19,PayPal,64383 Christine Trail Apt. 190,Lake Loriville,Andorra,SPRING10,5,132,660,66,594
+12825,Basic Depot,4394,51,178,Books,2024-04-13,PayPal,10087 Reyes Prairie,Roweborough,Korea,SUMMER20,2,54,108,22,86
+63275,Urban Goods,9255,48,162,Electronics,2024-04-07,PayPal,55838 Gibbs Point Apt. 829,Sandovalfurt,Bermuda,None,1,20,20,0,20
+96706,Urban Goods,1515,48,103,Home & Garden,2024-03-30,PayPal,2851 Jesse Island,Kleinhaven,Cyprus,None,1,104,104,0,104
+99888,Essential Mart,5969,60,133,Electronics,2024-03-29,Credit Card,358 Campbell Cape Suite 068,Lake Jason,Israel,SPRING10,2,102,204,20,184
+28360,Urban Goods,8367,65,125,Clothing,2024-04-08,PayPal,2663 Wells Crossroad,Nelsonton,Brazil,None,5,43,215,0,215
+95329,Urban Goods,8433,61,159,Books,2024-04-08,Credit Card,3031 Velazquez Field,Thomasshire,Brunei Darussalam,None,3,151,453,0,453
+26213,Basic Depot,4423,22,194,Home & Garden,2024-04-18,Credit Card,119 Justin Spurs,New Jordan,Pitcairn Islands,FALL15,1,170,170,26,144
+19136,Pure Market,3830,41,169,Electronics,2024-03-27,Credit Card,86695 Sanchez Port,Port Catherineshire,Cook Islands,SUMMER20,3,89,267,53,214
+83597,Basic Depot,6255,29,126,Electronics,2024-03-28,Credit Card,91799 Duke Park,Diazland,Cuba,None,1,178,178,0,178
+89637,Basic Depot,1122,29,122,Home & Garden,2024-04-01,PayPal,75112 Carlson Garden Suite 574,North Gregoryside,Sao Tome and Principe,None,2,125,250,0,250
+51074,Essential Mart,4014,45,186,Electronics,2024-04-25,PayPal,08442 Cameron Street,Scottview,Angola,SUMMER20,3,146,438,88,350
+56102,Essential Mart,3177,34,187,Books,2024-04-06,PayPal,9296 Reed Cliffs,Port Edward,Swaziland,None,4,81,324,0,324
+92384,Essential Mart,2420,39,145,Clothing,2024-04-17,Credit Card,52822 Moreno Circle Apt. 969,Powersside,China,SUMMER20,2,23,46,9,37
+79670,Pure Market,7156,63,111,Clothing,2024-04-04,PayPal,5262 Amanda Rapids Apt. 061,Lake Tracy,Burundi,None,4,111,444,0,444
+23078,Basic Depot,3443,25,108,Home & Garden,2024-04-23,PayPal,98744 Jones Causeway Suite 226,Dixonfurt,Sri Lanka,SUMMER20,3,120,360,72,288
+87850,Essential Mart,8440,31,104,Electronics,2024-04-13,PayPal,712 Alvarez Lane,Campbellton,Greece,FALL15,5,63,315,47,268
+14350,Essential Mart,4150,58,148,Home & Garden,2024-04-01,Credit Card,5705 Parker Trail,Port Matthew,Saint Pierre and Miquelon,None,4,114,456,0,456
+53808,Urban Goods,3662,55,137,Home & Garden,2024-04-24,Credit Card,622 John Track Apt. 383,Port Paul,French Guiana,FALL15,5,53,265,40,225
+84669,Basic Depot,7331,52,101,Books,2024-03-29,PayPal,3647 Herman Rapid,Stevenland,Malaysia,SUMMER20,1,181,181,36,145
+25914,Pure Market,5178,23,172,Home & Garden,2024-04-14,Credit Card,2587 Stephen Mount,Lake Mason,Hungary,SPRING10,4,116,464,46,418
+33869,Urban Goods,7955,37,175,Books,2024-04-03,Credit Card,6766 Jessica Hills,East Daniel,Cape Verde,SPRING10,1,136,136,14,122
+77924,Pure Market,4932,52,177,Electronics,2024-04-01,Credit Card,157 Bennett Mews Suite 780,Reedburgh,United Kingdom,FALL15,1,90,90,14,76
+53270,Essential Mart,4001,25,124,Books,2024-03-30,Credit Card,62160 Tina Squares Apt. 641,Millerhaven,Timor-Leste,None,2,153,306,0,306
+99057,Basic Depot,7482,55,199,Electronics,2024-04-07,Credit Card,2324 Christopher River Apt. 004,North Ernestfurt,Tanzania,None,5,77,385,0,385
+38750,Urban Goods,1279,39,102,Books,2024-04-14,Credit Card,508 Christopher Field Suite 695,Samanthashire,Pakistan,SUMMER20,2,60,120,24,96
+41129,Pure Market,3238,45,109,Books,2024-04-02,PayPal,286 William Hills,Lake Janet,El Salvador,None,4,93,372,0,372
+26050,Basic Depot,8464,53,113,Home & Garden,2024-04-11,PayPal,128 Cindy Knolls Suite 012,Port Kimberly,Togo,SUMMER20,5,97,485,97,388
+49207,Urban Goods,1057,29,129,Home & Garden,2024-04-18,PayPal,3740 Crystal Glens Apt. 418,Port Elizabethberg,Peru,SUMMER20,2,143,286,57,229
+22119,Urban Goods,4616,43,153,Electronics,2024-04-06,PayPal,5119 Lisa Mews,Lake Devinmouth,Swaziland,None,1,176,176,0,176
+30498,Pure Market,2237,64,112,Books,2024-04-14,PayPal,13726 Lawson Squares,East Erinmouth,Swaziland,None,4,101,404,0,404
+11290,Basic Depot,8345,22,189,Home & Garden,2024-03-29,PayPal,4368 Goodwin Point,Ayershaven,Israel,None,4,196,784,0,784
+97003,Basic Depot,1009,61,183,Clothing,2024-04-01,Credit Card,5452 Moore Cliff Suite 913,Juliehaven,Monaco,None,5,37,185,0,185
+24585,Basic Depot,7799,36,180,Home & Garden,2024-04-05,Credit Card,339 Deborah Roads,North Brandy,Gibraltar,None,1,108,108,0,108
+70092,Urban Goods,1474,57,179,Books,2024-04-23,PayPal,905 Gates Orchard Apt. 223,Brettville,Svalbard & Jan Mayen Islands,SUMMER20,1,164,164,33,131
+39486,Pure Market,4472,63,188,Books,2024-04-05,PayPal,100 Doyle Villages,New Danielton,Saint Kitts and Nevis,SPRING10,3,121,363,36,327
+92298,Basic Depot,6611,47,114,Home & Garden,2024-04-02,PayPal,133 Hart Field Suite 356,East Kyle,Yemen,None,2,45,90,0,90
+73168,Pure Market,1598,27,197,Books,2024-04-15,PayPal,4126 Rodriguez Port,South Lorimouth,Cyprus,None,5,59,295,0,295
+71244,Pure Market,6275,27,154,Clothing,2024-04-24,Credit Card,1901 Darin Oval,Lake Walter,Christmas Island,SUMMER20,5,34,170,34,136
+72577,Essential Mart,8050,53,145,Electronics,2024-04-07,Credit Card,778 Jon Branch Suite 122,New Robert,Yemen,SUMMER20,4,38,152,30,122
+20635,Essential Mart,3469,57,176,Electronics,2024-04-16,Credit Card,525 Oliver Island,Herreraport,Madagascar,SUMMER20,5,197,985,197,788
+21634,Essential Mart,6296,36,185,Clothing,2024-04-06,PayPal,87882 Bell Course,Lisafort,Moldova,SPRING10,5,111,555,56,499
+39421,Essential Mart,3641,53,112,Electronics,2024-04-18,PayPal,58525 House Mall Apt. 316,Jessebury,United Arab Emirates,FALL15,2,76,152,23,129
+83231,Basic Depot,5210,52,111,Books,2024-04-18,PayPal,89442 Lane Causeway Apt. 589,Juanshire,Rwanda,SUMMER20,5,62,310,62,248
+65596,Urban Goods,7033,54,159,Electronics,2024-04-12,Credit Card,13485 Stephen Prairie Suite 555,Jonathanborough,Seychelles,None,5,106,530,0,530
+16088,Urban Goods,6754,24,133,Books,2024-04-05,Credit Card,667 Shawn Street,New Jasonbury,Brunei Darussalam,SUMMER20,2,100,200,40,160
+59599,Urban Goods,4306,23,151,Clothing,2024-04-08,PayPal,59221 Daniel Fort,Port William,Australia,None,1,100,100,0,100
+57441,Basic Depot,7449,42,113,Books,2024-04-08,PayPal,34685 Brown Course Suite 992,East Thomas,Saint Pierre and Miquelon,SPRING10,1,53,53,5,48
+10183,Pure Market,1598,25,137,Home & Garden,2024-04-22,PayPal,80987 Davis Rue Apt. 735,East Jacqueline,Sudan,None,5,22,110,0,110
+93889,Basic Depot,9513,32,153,Electronics,2024-04-13,Credit Card,75526 Debbie Mount Suite 719,Port Nicholashaven,French Southern Territories,FALL15,4,41,164,25,139
+98953,Essential Mart,6129,25,120,Electronics,2024-03-29,PayPal,76250 Rachel Land,Lake Maryshire,Palestinian Territory,SUMMER20,4,152,608,122,486
+45200,Pure Market,3883,52,179,Clothing,2024-03-29,PayPal,11717 Edwards Extension,Brockton,Tanzania,SUMMER20,4,152,608,122,486
+58482,Pure Market,8826,39,126,Electronics,2024-04-03,PayPal,02169 Ashley Brook,North Johntown,Bouvet Island (Bouvetoya),SUMMER20,4,103,412,82,330
+26574,Basic Depot,3633,54,196,Home & Garden,2024-04-04,PayPal,73164 Kaitlyn Cape,Kristenbury,Sweden,FALL15,3,101,303,45,258
+84452,Urban Goods,3237,57,184,Home & Garden,2024-04-08,PayPal,48777 Walker Summit,South Angelamouth,Pitcairn Islands,SUMMER20,4,155,620,124,496
+87435,Basic Depot,3261,38,103,Home & Garden,2024-03-31,Credit Card,3165 Lori Ports,Millerhaven,Congo,SUMMER20,1,110,110,22,88
+64507,Essential Mart,8911,46,170,Clothing,2024-04-17,PayPal,85612 Tyler Squares,Leetown,Namibia,SUMMER20,1,59,59,12,47
+34185,Urban Goods,9450,28,134,Home & Garden,2024-04-18,Credit Card,709 Tina Vista,Lake Jeffrey,Jamaica,None,4,109,436,0,436
+76844,Pure Market,5984,41,124,Clothing,2024-04-03,Credit Card,45984 Melody Unions,South Stevenview,Guinea-Bissau,None,4,96,384,0,384
+87070,Essential Mart,4999,42,114,Books,2024-04-15,Credit Card,848 Robert Crescent,Malonemouth,Andorra,None,5,75,375,0,375
+42373,Essential Mart,9162,25,164,Electronics,2024-04-16,PayPal,851 James Station Suite 399,South Jamesshire,Congo,None,3,91,273,0,273
+78867,Urban Goods,2862,43,148,Books,2024-03-28,Credit Card,7480 Stephen Rapid,Munozhaven,Fiji,None,5,24,120,0,120
+93076,Pure Market,8301,38,147,Clothing,2024-04-22,Credit Card,1254 Arnold Wells Apt. 472,Millerborough,Panama,SPRING10,4,119,476,48,428
+99013,Pure Market,1333,23,177,Books,2024-04-04,PayPal,818 Oliver Prairie,Williamsberg,Zimbabwe,FALL15,5,172,860,129,731
+65158,Essential Mart,1417,50,167,Electronics,2024-04-25,PayPal,1952 Sharon Flats,Jamesmouth,Christmas Island,SPRING10,2,166,332,33,299
+38673,Basic Depot,2824,28,100,Books,2024-04-03,PayPal,72076 Martin Mission,Austinville,Oman,None,3,25,75,0,75
+85562,Basic Depot,1842,23,118,Home & Garden,2024-04-02,PayPal,057 Blanchard Forks Apt. 447,West Carlosmouth,Marshall Islands,FALL15,4,187,748,112,636
+88599,Urban Goods,5790,61,113,Electronics,2024-04-10,Credit Card,5593 Austin Harbors Apt. 581,Lake Latoyastad,Lesotho,FALL15,4,49,196,29,167
+91841,Urban Goods,2615,24,188,Clothing,2024-04-04,PayPal,202 Joseph Freeway,Port Debrabury,Bahamas,FALL15,4,81,324,49,275
+33946,Pure Market,2477,38,131,Home & Garden,2024-04-23,PayPal,523 Caroline Locks,East Patricia,Montserrat,None,5,24,120,0,120
+47406,Essential Mart,1464,30,180,Clothing,2024-03-29,PayPal,849 Simpson Ports,New Timothy,Cayman Islands,SPRING10,4,173,692,69,623
+42065,Essential Mart,9229,48,139,Books,2024-04-09,Credit Card,765 Carson Greens Suite 768,Port Mark,Portugal,None,5,94,470,0,470
+12826,Basic Depot,4188,25,191,Home & Garden,2024-04-10,Credit Card,65830 Peterson Freeway,Colleenmouth,Bhutan,None,4,37,148,0,148
+95145,Urban Goods,6231,31,191,Home & Garden,2024-04-06,Credit Card,213 Mary Brooks Suite 450,South Hayley,Jamaica,SPRING10,1,161,161,16,145
+33266,Essential Mart,5714,59,182,Clothing,2024-04-20,PayPal,65143 Mullen Causeway,South Ashleyfort,Ecuador,None,1,122,122,0,122
+15253,Essential Mart,2067,52,155,Books,2024-04-10,PayPal,208 Michelle Loop,Jasmineburgh,Japan,None,1,133,133,0,133
+51117,Essential Mart,2985,28,138,Home & Garden,2024-04-04,PayPal,65639 Justin Stream Apt. 416,South Crystal,Indonesia,FALL15,2,40,80,12,68
+12562,Urban Goods,1271,60,162,Clothing,2024-04-06,PayPal,5707 Walsh Views,Port Catherinetown,Turkmenistan,SPRING10,2,175,350,35,315
+67242,Pure Market,3475,58,153,Books,2024-04-03,PayPal,364 Tina Bridge,Carterville,Nauru,SUMMER20,1,122,122,24,98
+91915,Basic Depot,8182,24,179,Home & Garden,2024-03-30,PayPal,0584 Todd Groves Suite 783,Jamesside,Gambia,None,1,189,189,0,189
+90141,Urban Goods,4253,52,183,Clothing,2024-03-28,Credit Card,15056 Smith Alley,Nathanfort,Bulgaria,SUMMER20,5,186,930,186,744
+17845,Essential Mart,6502,38,135,Books,2024-04-15,PayPal,9546 Kimberly Burg Suite 848,Port Curtis,Zimbabwe,SUMMER20,4,29,116,23,93
+12026,Pure Market,5708,52,105,Clothing,2024-04-25,PayPal,0697 Amber Place,Spencerfort,Egypt,None,2,70,140,0,140
+73633,Essential Mart,1925,40,133,Electronics,2024-04-22,PayPal,79658 Harrison Spring,West Miguel,Switzerland,SPRING10,3,150,450,45,405
+94375,Pure Market,9074,43,190,Electronics,2024-04-15,Credit Card,954 Thomas Forges Suite 819,Kathrynbury,American Samoa,FALL15,4,32,128,19,109
+55266,Pure Market,7933,25,146,Electronics,2024-04-22,Credit Card,06311 Alex Branch,Lake Angelica,El Salvador,SPRING10,4,46,184,18,166
+78558,Essential Mart,9230,65,132,Books,2024-04-01,Credit Card,69392 Weiss Courts Suite 412,Ibarratown,Bouvet Island (Bouvetoya),SPRING10,2,71,142,14,128
+54360,Pure Market,8402,43,158,Books,2024-04-01,Credit Card,6721 Brad Radial Suite 143,North Elizabethfurt,Liechtenstein,SUMMER20,1,152,152,30,122
+87437,Essential Mart,7352,51,130,Clothing,2024-04-18,Credit Card,5524 Rice Shores Suite 119,West Kendra,Wallis and Futuna,SUMMER20,5,175,875,175,700
+18820,Basic Depot,5401,22,102,Books,2024-04-15,Credit Card,73113 Jason Lakes Apt. 632,Saraborough,Brunei Darussalam,None,3,141,423,0,423
+75638,Basic Depot,1121,63,181,Home & Garden,2024-04-21,Credit Card,82437 Guerra Avenue Apt. 897,East Geraldshire,Montenegro,FALL15,1,188,188,28,160
+43188,Essential Mart,6544,55,119,Home & Garden,2024-04-16,Credit Card,6549 Michelle Plains Suite 377,West Bobby,British Indian Ocean Territory (Chagos Archipelago),FALL15,5,29,145,22,123
+89325,Essential Mart,5818,63,165,Electronics,2024-03-28,PayPal,8207 Elizabeth Trail,South Jacob,Mauritius,SPRING10,4,100,400,40,360
+97365,Basic Depot,5521,37,101,Electronics,2024-04-12,Credit Card,84094 Olson Neck,Port Derekborough,Solomon Islands,SPRING10,5,63,315,32,283
+42021,Pure Market,4472,40,156,Electronics,2024-04-25,PayPal,2895 Williams Glens,Toddmouth,Bulgaria,None,1,54,54,0,54
+25163,Essential Mart,3236,41,178,Books,2024-04-13,PayPal,3682 Johnson Forest Suite 763,North Amandaburgh,New Caledonia,SUMMER20,1,48,48,10,38
+39681,Urban Goods,5307,40,162,Home & Garden,2024-04-25,PayPal,426 Newton Islands Suite 559,Lake Christinaberg,Holy See (Vatican City State),SUMMER20,5,123,615,123,492
+56060,Essential Mart,9240,29,139,Electronics,2024-04-15,Credit Card,850 Wanda Circle,North Joseph,Luxembourg,SPRING10,3,194,582,58,524
+46292,Urban Goods,9925,29,110,Books,2024-04-19,PayPal,40621 Amber Terrace,New George,Central African Republic,SUMMER20,2,129,258,52,206
+45440,Urban Goods,3976,52,118,Home & Garden,2024-04-23,Credit Card,52130 Christine Inlet Apt. 545,South Toddchester,Anguilla,SUMMER20,3,111,333,67,266
+96194,Urban Goods,3677,42,139,Home & Garden,2024-04-14,PayPal,716 Samantha Spring Suite 393,Wilkersonberg,Georgia,SUMMER20,3,55,165,33,132
+68299,Basic Depot,3579,37,197,Clothing,2024-04-16,PayPal,253 Kenneth Shores Apt. 808,Crossburgh,Oman,FALL15,1,180,180,27,153
+84151,Pure Market,8960,37,119,Home & Garden,2024-04-25,PayPal,08011 Kaitlin Roads,Frederickfort,Oman,SPRING10,1,145,145,14,131
+75259,Pure Market,2412,37,194,Clothing,2024-04-21,PayPal,353 Amy Garden,West Danielle,Jordan,None,1,113,113,0,113
+53464,Pure Market,7827,42,143,Books,2024-04-09,PayPal,442 Kelsey Center,Waltersfort,Hungary,SPRING10,3,121,363,36,327
+52532,Pure Market,9150,24,180,Home & Garden,2024-03-28,PayPal,2303 Audrey Green Suite 262,Christopherberg,Finland,SPRING10,1,52,52,5,47
+55502,Essential Mart,9840,56,114,Books,2024-04-10,Credit Card,7911 Diaz Passage,Amyfort,Pitcairn Islands,SUMMER20,1,56,56,11,45
+90806,Basic Depot,4292,47,183,Electronics,2024-04-22,Credit Card,44573 Gonzalez Forks,Lake Terri,South Africa,SPRING10,5,101,505,50,455
+26552,Basic Depot,9781,60,142,Electronics,2024-04-12,Credit Card,31544 Evans Fords,Gaineshaven,Zambia,SUMMER20,2,197,394,79,315
+68270,Urban Goods,5698,65,130,Clothing,2024-04-25,Credit Card,4912 White Fords Apt. 887,Marciamouth,Korea,SUMMER20,3,145,435,87,348
+88625,Basic Depot,8783,42,154,Books,2024-04-24,Credit Card,00465 Matthew Rest Apt. 329,Paigeside,Algeria,SUMMER20,3,59,177,35,142
+30381,Basic Depot,3519,30,182,Books,2024-04-17,Credit Card,64407 Osborne Mills Apt. 721,New Blakemouth,Colombia,FALL15,3,113,339,51,288
+89045,Essential Mart,5446,49,113,Electronics,2024-04-09,Credit Card,59185 Spencer Wall Apt. 640,Michellemouth,Indonesia,FALL15,1,67,67,10,57
+78625,Basic Depot,7344,39,154,Books,2024-04-06,PayPal,8335 Fry Circles,Lake William,Bangladesh,FALL15,3,147,441,66,375
+15504,Pure Market,5876,38,160,Home & Garden,2024-04-23,Credit Card,9474 Robert Harbors,Port Jasmine,Haiti,None,4,75,300,0,300
+99550,Essential Mart,3128,32,171,Electronics,2024-04-20,PayPal,476 Lee Brook Suite 811,East Amy,Ecuador,SPRING10,4,69,276,28,248
+98719,Urban Goods,3051,45,168,Electronics,2024-04-12,Credit Card,37543 David Lock,Kathrynside,Greece,None,1,176,176,0,176
+75824,Essential Mart,6615,45,157,Electronics,2024-04-07,Credit Card,0681 Solomon Flat Apt. 686,East Melissa,Madagascar,FALL15,4,163,652,98,554
+34931,Urban Goods,6051,53,156,Clothing,2024-04-01,PayPal,93237 Keller Mountain,East Michelle,Eritrea,FALL15,1,161,161,24,137
+44830,Essential Mart,3403,23,167,Books,2024-03-30,Credit Card,5565 Morales Dam Apt. 734,West John,Colombia,SPRING10,4,70,280,28,252
+85266,Essential Mart,2238,58,176,Electronics,2024-03-31,Credit Card,57529 Jason Well,West Jerry,Tokelau,SUMMER20,1,94,94,19,75
+17785,Pure Market,2693,35,126,Books,2024-04-16,PayPal,06902 Lynn Points,Carterland,Cocos (Keeling) Islands,SUMMER20,1,135,135,27,108
+61924,Urban Goods,9943,54,181,Electronics,2024-03-30,PayPal,80064 Shannon Trafficway Suite 468,Port William,Israel,SUMMER20,5,65,325,65,260
+24899,Basic Depot,3480,65,109,Books,2024-03-31,PayPal,94643 Jeffrey Spring Apt. 005,West Jesusstad,Malaysia,SUMMER20,1,159,159,32,127
+32010,Pure Market,2086,36,187,Clothing,2024-03-29,PayPal,661 Erik Dale Apt. 068,Davisshire,Mali,None,5,61,305,0,305
+18111,Urban Goods,4221,26,149,Clothing,2024-04-21,PayPal,3014 Clark Lane Suite 191,Allenhaven,South Georgia and the South Sandwich Islands,SPRING10,1,134,134,13,121
+98289,Essential Mart,6609,26,120,Clothing,2024-04-06,Credit Card,3111 Webb Coves Suite 867,Caldwellbury,Wallis and Futuna,None,1,65,65,0,65
+91736,Essential Mart,6921,46,197,Electronics,2024-04-25,PayPal,5767 Dorsey Common,Fergusonburgh,Serbia,SUMMER20,2,165,330,66,264
+95673,Urban Goods,3504,56,150,Books,2024-04-16,Credit Card,319 Lester Well,Emilymouth,Slovakia (Slovak Republic),FALL15,5,77,385,58,327
+85336,Basic Depot,5029,27,151,Electronics,2024-03-28,PayPal,3586 Jackson Park,Hoview,Congo,FALL15,1,134,134,20,114
+86670,Pure Market,4372,53,157,Clothing,2024-04-22,Credit Card,5583 Ryan Gateway Apt. 706,South Johnfort,Andorra,None,1,25,25,0,25
+37046,Essential Mart,5524,46,158,Books,2024-03-28,Credit Card,738 Stephen Grove Suite 919,Donnahaven,Greenland,SPRING10,4,127,508,51,457
+15274,Pure Market,4795,48,162,Clothing,2024-04-02,Credit Card,8392 Mark Unions,South Christinafurt,Ghana,SUMMER20,5,193,965,193,772
+91150,Pure Market,9266,32,106,Home & Garden,2024-04-15,Credit Card,71752 David Park Suite 000,East Kellybury,Western Sahara,FALL15,4,172,688,103,585
+41342,Urban Goods,3942,55,129,Electronics,2024-04-01,PayPal,095 Dodson Freeway Suite 980,New Donna,Martinique,SPRING10,3,78,234,23,211
+39200,Pure Market,5189,26,152,Electronics,2024-04-24,Credit Card,8325 Bryan Ridge,Ryanhaven,Egypt,None,2,96,192,0,192
+70846,Urban Goods,8231,38,173,Books,2024-04-09,Credit Card,40317 Huang Landing Apt. 401,Port Teresaland,Sri Lanka,SPRING10,1,158,158,16,142
+10697,Basic Depot,2378,64,142,Books,2024-03-29,PayPal,656 James Loaf Apt. 299,Lake Yvonnebury,Myanmar,FALL15,1,88,88,13,75
+80701,Pure Market,1844,28,116,Books,2024-04-08,Credit Card,0225 Wagner Meadow Apt. 418,Michaelhaven,Malta,SPRING10,4,42,168,17,151
+82850,Pure Market,5946,60,151,Clothing,2024-04-22,Credit Card,57049 Mcpherson Track Apt. 607,Curtisberg,Nigeria,SPRING10,1,62,62,6,56
+71851,Pure Market,5680,49,118,Books,2024-04-18,PayPal,45816 Parrish Cove Suite 678,Lake Ronald,China,SUMMER20,4,96,384,77,307
+84439,Urban Goods,3914,51,160,Books,2024-04-21,Credit Card,82405 Ernest Course,Lake Kristine,Gabon,None,2,155,310,0,310
+29604,Basic Depot,8456,27,134,Home & Garden,2024-04-07,Credit Card,819 Mills Mill,Port Ashleymouth,Switzerland,SUMMER20,5,100,500,100,400
+43618,Pure Market,2996,31,149,Clothing,2024-04-21,PayPal,614 Decker Trace Suite 925,Reynoldshaven,Heard Island and McDonald Islands,SUMMER20,5,140,700,140,560
+15659,Basic Depot,8051,56,136,Clothing,2024-03-31,Credit Card,4920 Rodriguez Parkway,West Timothy,Norway,FALL15,3,198,594,89,505
+97344,Basic Depot,2111,58,126,Clothing,2024-03-30,PayPal,404 Mack Ways Suite 654,Port Raymond,Slovakia (Slovak Republic),SPRING10,1,103,103,10,93
+29033,Essential Mart,5734,47,156,Books,2024-03-31,PayPal,2626 Smith Track,Port Johnhaven,Turkey,SPRING10,3,130,390,39,351
+42166,Pure Market,7785,29,186,Clothing,2024-04-25,PayPal,81872 Anne Roads Apt. 771,New Stephanie,Congo,SPRING10,4,83,332,33,299
+61818,Essential Mart,5553,46,191,Clothing,2024-04-08,PayPal,151 Shane Forest Apt. 145,North Joshuaside,Guyana,SPRING10,5,173,865,86,779
+77738,Urban Goods,8564,52,152,Home & Garden,2024-04-17,PayPal,2118 Coleman Mall Suite 144,Dawnfort,Solomon Islands,SUMMER20,5,159,795,159,636
+12320,Urban Goods,6389,34,148,Electronics,2024-04-12,Credit Card,88812 Lara Station Suite 258,Phillipville,Ghana,SUMMER20,5,143,715,143,572
+39119,Essential Mart,8137,31,146,Electronics,2024-03-30,PayPal,99463 Linda Wells Apt. 848,Taylorton,American Samoa,SPRING10,5,168,840,84,756
+11954,Urban Goods,3139,62,115,Electronics,2024-04-25,PayPal,23945 Johnson Isle Suite 794,West Rhondaton,Oman,SUMMER20,2,34,68,14,54
+60216,Urban Goods,8204,54,136,Electronics,2024-04-23,PayPal,67347 Jensen Via Apt. 953,Juliastad,Bahrain,SPRING10,2,123,246,25,221
+15393,Pure Market,3929,53,151,Electronics,2024-04-06,PayPal,55093 Matthew Forks Apt. 527,West Jasonmouth,Yemen,SPRING10,5,109,545,54,491
+35179,Pure Market,3500,41,183,Home & Garden,2024-04-10,Credit Card,641 Hughes Brooks Apt. 087,Valenciashire,Faroe Islands,SPRING10,2,93,186,19,167
+74105,Basic Depot,3248,59,194,Electronics,2024-03-31,PayPal,3774 Craig Lakes Suite 992,Lake Kaylaland,Eritrea,None,1,55,55,0,55
+61247,Pure Market,3768,28,164,Books,2024-04-24,PayPal,280 Frazier Knoll,South Reginald,Syrian Arab Republic,SPRING10,4,134,536,54,482
+50903,Pure Market,8576,48,199,Home & Garden,2024-04-02,Credit Card,7609 Emily Landing Suite 244,Jacobchester,Algeria,FALL15,2,82,164,25,139
+75304,Basic Depot,7040,58,121,Books,2024-04-08,Credit Card,4581 Cody Locks,New Bobbybury,Netherlands,FALL15,5,163,815,122,693
+41487,Pure Market,9746,33,180,Clothing,2024-04-01,PayPal,113 Hess Route Suite 045,Cordovamouth,Yemen,None,4,156,624,0,624
+39696,Basic Depot,1864,58,159,Books,2024-04-03,PayPal,726 Mclaughlin Mount Suite 156,Wrightfort,Kyrgyz Republic,FALL15,4,47,188,28,160
+81195,Essential Mart,1263,53,114,Clothing,2024-03-30,Credit Card,7885 Phillips Flat Apt. 201,Ericborough,Estonia,None,3,104,312,0,312
+58940,Urban Goods,2078,39,170,Clothing,2024-04-09,PayPal,58762 Cantu Viaduct,East Theodorebury,Cambodia,FALL15,4,96,384,58,326
+20480,Pure Market,9970,23,178,Home & Garden,2024-04-23,Credit Card,99367 Bryan Corner,Sandraberg,Trinidad and Tobago,FALL15,5,80,400,60,340
+29743,Basic Depot,7139,37,154,Clothing,2024-04-13,Credit Card,02299 Griffin Cliffs Apt. 773,Brandonshire,Cayman Islands,SPRING10,1,78,78,8,70
+33744,Essential Mart,9774,28,181,Clothing,2024-04-05,Credit Card,1511 Tyler Fork Suite 800,West Gregorychester,Mauritania,None,1,99,99,0,99
+81321,Urban Goods,2693,34,167,Clothing,2024-04-21,Credit Card,5826 Samantha Plaza,Mitchellville,Falkland Islands (Malvinas),FALL15,3,45,135,20,115
+10554,Essential Mart,2281,51,135,Home & Garden,2024-04-08,PayPal,229 Stephanie Cape Suite 329,Margaretmouth,Liechtenstein,SPRING10,1,57,57,6,51
+18576,Urban Goods,2141,29,138,Electronics,2024-04-17,Credit Card,892 Rachael Vista,West Michael,Turks and Caicos Islands,None,4,24,96,0,96
+92866,Basic Depot,2443,23,150,Home & Garden,2024-04-20,PayPal,818 Elizabeth Brook Suite 522,Leachstad,Lao People's Democratic Republic,SUMMER20,5,31,155,31,124
+45987,Urban Goods,3740,62,185,Home & Garden,2024-03-28,Credit Card,9809 Mitchell Corners Apt. 631,Baldwinview,Papua New Guinea,FALL15,3,123,369,55,314
+25925,Basic Depot,2051,22,198,Home & Garden,2024-04-02,Credit Card,5028 Barrett Walks Suite 664,East Andrew,Palestinian Territory,SPRING10,2,192,384,38,346
+73089,Basic Depot,6375,55,116,Books,2024-03-28,Credit Card,062 Paul Roads Suite 300,Mccarthyside,Central African Republic,SUMMER20,1,39,39,8,31
+31617,Pure Market,7151,57,108,Clothing,2024-04-19,Credit Card,951 Rhodes Rapid,Dylanburgh,Nepal,FALL15,4,178,712,107,605
+30278,Basic Depot,5945,31,144,Electronics,2024-04-06,Credit Card,5145 Allen Walk Apt. 830,Port David,Western Sahara,SUMMER20,1,34,34,7,27
+57425,Essential Mart,8769,30,129,Home & Garden,2024-04-07,Credit Card,79568 Luis Island,West Cindyview,Madagascar,None,4,58,232,0,232
+14432,Basic Depot,2606,58,153,Home & Garden,2024-04-02,Credit Card,578 Rodriguez Cape,North Keithview,Guadeloupe,SUMMER20,1,37,37,7,30
+86650,Basic Depot,1982,42,117,Books,2024-04-04,Credit Card,7079 Gill Pine Suite 088,Graymouth,Bulgaria,None,1,193,193,0,193
+19507,Essential Mart,4005,37,199,Books,2024-04-15,Credit Card,882 Samantha Plaza,New David,Ecuador,SPRING10,2,62,124,12,112
+91010,Pure Market,9906,64,151,Books,2024-04-19,PayPal,118 Cindy Ford Suite 677,South Anthonyshire,Micronesia,SUMMER20,2,77,154,31,123
+54134,Basic Depot,9379,65,147,Home & Garden,2024-04-25,Credit Card,121 Hernandez Forges Apt. 930,South Jeff,Isle of Man,None,1,158,158,0,158
+36620,Essential Mart,4355,25,114,Electronics,2024-04-24,PayPal,5193 Amanda Field,Port Davidmouth,Kazakhstan,None,2,85,170,0,170
+74570,Essential Mart,7616,44,187,Clothing,2024-04-04,PayPal,8391 Jeffrey Circles,Jonathanbury,Austria,SPRING10,1,79,79,8,71
+95076,Pure Market,8474,49,141,Books,2024-04-25,PayPal,702 Aaron Rest Apt. 927,Nashville,Palestinian Territory,None,4,84,336,0,336
+26295,Basic Depot,7373,41,132,Books,2024-04-05,Credit Card,6568 Melissa Keys Suite 855,Gomezfurt,Bhutan,None,1,45,45,0,45
+13023,Essential Mart,9250,39,184,Books,2024-04-01,Credit Card,65267 Christine Fields Suite 001,Lake Melissabury,Sri Lanka,FALL15,3,88,264,40,224
+32374,Pure Market,6978,31,122,Electronics,2024-04-05,Credit Card,3125 Johnson Cape Apt. 888,Port Mary,Saudi Arabia,SPRING10,3,57,171,17,154
+10608,Essential Mart,9762,49,105,Electronics,2024-03-31,PayPal,073 Morales Springs,Davidsonborough,Aruba,FALL15,4,60,240,36,204
+41338,Urban Goods,8544,27,100,Clothing,2024-04-16,Credit Card,11897 Gutierrez Ports Apt. 267,Donaldborough,Reunion,SUMMER20,2,137,274,55,219
+35865,Essential Mart,9352,39,119,Electronics,2024-04-07,Credit Card,669 Jesus Curve Apt. 442,Lake Judithside,United Arab Emirates,None,5,171,855,0,855
+93104,Essential Mart,8921,28,148,Electronics,2024-04-04,PayPal,02095 Sarah Ville Apt. 335,Port Sarah,Afghanistan,SPRING10,4,60,240,24,216
+50514,Urban Goods,7289,63,140,Books,2024-04-12,Credit Card,6069 Kyle Track,Hannahview,Egypt,SPRING10,1,79,79,8,71
+53611,Urban Goods,1406,44,197,Clothing,2024-04-20,PayPal,825 Joanne Spurs,South Tarastad,Bhutan,SUMMER20,3,118,354,71,283
+19650,Pure Market,5592,38,117,Electronics,2024-04-01,PayPal,460 Bailey Manors,North Erinborough,Mauritania,FALL15,2,36,72,11,61
+22649,Basic Depot,2677,55,168,Clothing,2024-04-14,PayPal,5593 Laurie Views Apt. 778,Annaburgh,Mexico,SUMMER20,4,177,708,142,566
+68217,Pure Market,6324,45,154,Books,2024-03-31,Credit Card,461 Williams Grove Apt. 332,Josephfurt,French Polynesia,None,2,30,60,0,60
+32549,Basic Depot,6609,25,183,Home & Garden,2024-04-13,PayPal,01430 Nelson Dale,Rhondaview,Mexico,None,5,175,875,0,875
+24710,Basic Depot,8845,25,171,Home & Garden,2024-04-03,Credit Card,2938 Thornton Trafficway,New Isaacview,Nicaragua,None,2,71,142,0,142
+90536,Pure Market,1284,28,198,Clothing,2024-03-29,Credit Card,656 Fitzpatrick Causeway,Port Donnamouth,Saint Helena,FALL15,5,149,745,112,633
+87425,Urban Goods,7706,62,147,Home & Garden,2024-04-21,Credit Card,51971 Gina Extensions Apt. 750,South Gregoryborough,Zimbabwe,SPRING10,3,38,114,11,103
+60389,Essential Mart,9934,52,103,Clothing,2024-03-30,Credit Card,2847 Lacey Viaduct,Garciafurt,Bangladesh,SUMMER20,3,111,333,67,266
+33527,Pure Market,5575,53,121,Clothing,2024-04-04,PayPal,48325 Jackson Shores,East Stephen,Armenia,SUMMER20,4,24,96,19,77
+45179,Urban Goods,9517,47,113,Electronics,2024-04-05,PayPal,44246 Sheila Key,New Robinburgh,Senegal,SUMMER20,5,50,250,50,200
+23793,Basic Depot,5164,25,102,Home & Garden,2024-04-23,Credit Card,514 William Wall Suite 053,Garciatown,Palau,SPRING10,4,25,100,10,90
+28431,Essential Mart,7764,64,157,Electronics,2024-04-05,PayPal,53470 Steven Common Apt. 147,Hillmouth,Switzerland,SUMMER20,5,168,840,168,672
+51989,Basic Depot,8381,52,121,Electronics,2024-04-15,Credit Card,3331 Johnathan Stravenue,South Sandrafort,Senegal,SUMMER20,2,87,174,35,139
+11454,Pure Market,6121,39,155,Clothing,2024-04-03,Credit Card,7683 Marcia Island,Delgadoside,Vanuatu,SPRING10,3,20,60,6,54
+49766,Pure Market,9941,34,151,Home & Garden,2024-03-30,Credit Card,651 Flores Mall,Brownbury,French Polynesia,SPRING10,5,164,820,82,738
+16326,Basic Depot,6747,64,167,Books,2024-04-09,Credit Card,302 Dorsey River,Tracyberg,Mayotte,SUMMER20,3,59,177,35,142
+21876,Basic Depot,3312,60,156,Electronics,2024-03-31,PayPal,8456 Todd Shore Apt. 064,Beltranbury,Mali,SUMMER20,4,49,196,39,157
+69938,Essential Mart,1186,59,186,Books,2024-03-29,Credit Card,53772 Jenna Hill,Brownshire,Switzerland,FALL15,5,84,420,63,357
+49532,Essential Mart,1029,37,190,Clothing,2024-03-31,PayPal,83095 Wolf Turnpike Suite 712,Jordanbury,Bolivia,SUMMER20,4,131,524,105,419
+98851,Essential Mart,9900,59,114,Electronics,2024-04-05,PayPal,5793 Danielle Gateway,West Michaelport,Svalbard & Jan Mayen Islands,None,4,124,496,0,496
+63435,Pure Market,2502,41,187,Clothing,2024-04-07,Credit Card,1629 Singleton Flats Suite 944,Fishermouth,Burundi,None,3,170,510,0,510
+13804,Urban Goods,3623,37,150,Electronics,2024-04-10,Credit Card,2375 Gutierrez Locks Suite 201,Gonzalezton,Congo,SPRING10,2,31,62,6,56
+37165,Basic Depot,6791,46,178,Clothing,2024-04-25,PayPal,0959 Brian Extensions Suite 583,Mullinstown,Saint Pierre and Miquelon,SUMMER20,4,197,788,158,630
+31850,Basic Depot,1208,59,102,Electronics,2024-03-31,Credit Card,27560 Johnson Points,South Ninafort,Central African Republic,SUMMER20,4,181,724,145,579
+13835,Basic Depot,1783,62,137,Electronics,2024-04-12,Credit Card,10639 Justin Roads Suite 047,Dorothyshire,Saint Vincent and the Grenadines,SPRING10,4,166,664,66,598
+69936,Basic Depot,1062,38,116,Clothing,2024-04-05,PayPal,86586 Walter Rapid,Codyhaven,Wallis and Futuna,SPRING10,3,85,255,26,229
+89069,Basic Depot,3665,23,172,Books,2024-03-27,Credit Card,97070 Joshua Springs Suite 654,Robertland,Bulgaria,FALL15,1,57,57,9,48
+94665,Urban Goods,2945,31,101,Electronics,2024-04-06,Credit Card,0469 Thomas Crescent,North Shaneburgh,Guatemala,FALL15,3,50,150,22,128
+73079,Basic Depot,1751,63,151,Clothing,2024-04-06,Credit Card,0808 Jonathan Brooks Apt. 972,South Ashley,Niue,FALL15,2,148,296,44,252
+38883,Pure Market,4039,61,141,Home & Garden,2024-04-12,PayPal,80912 Joshua Pass,East Toddfurt,Jersey,SUMMER20,2,144,288,58,230
+46737,Basic Depot,3271,36,179,Clothing,2024-04-03,Credit Card,339 Scott Stream Suite 827,Port Christopher,Afghanistan,FALL15,3,29,87,13,74
+48938,Basic Depot,7619,63,161,Home & Garden,2024-04-08,Credit Card,50816 Robles Ramp,Riceview,Tonga,FALL15,5,189,945,142,803
+16455,Basic Depot,4596,28,110,Electronics,2024-03-31,Credit Card,83667 Johnson Squares,West Judyhaven,Martinique,None,1,79,79,0,79
+27293,Essential Mart,9052,45,137,Home & Garden,2024-04-23,Credit Card,31352 David Club Apt. 121,North Stefanie,Djibouti,None,3,177,531,0,531
+47908,Essential Mart,2702,56,197,Clothing,2024-04-19,Credit Card,42999 Benjamin Mountain,Danielton,Samoa,FALL15,4,57,228,34,194
+48465,Pure Market,3505,39,123,Books,2024-04-22,Credit Card,57270 Savage Harbor Suite 700,Port Leahfort,Monaco,SPRING10,2,175,350,35,315
+13379,Pure Market,1010,57,159,Home & Garden,2024-03-31,PayPal,5324 George Lights,Port Joshuafurt,Korea,SUMMER20,3,89,267,53,214
+97630,Pure Market,9696,31,182,Clothing,2024-04-10,PayPal,75258 Morris Oval Apt. 802,North Amy,Peru,None,4,62,248,0,248
+61451,Essential Mart,9837,35,135,Clothing,2024-04-06,PayPal,65374 Perez Via Suite 736,Moralesborough,Antigua and Barbuda,SPRING10,3,88,264,26,238
+67878,Basic Depot,4555,23,164,Books,2024-04-01,PayPal,610 Ralph Island Suite 132,Gardnerport,Tanzania,FALL15,1,166,166,25,141
+83260,Essential Mart,4553,49,162,Clothing,2024-04-12,PayPal,452 Williams Ford,Smithshire,Benin,SUMMER20,5,38,190,38,152
+78809,Basic Depot,7720,45,175,Electronics,2024-04-06,PayPal,12401 Obrien Center Suite 872,Bennettview,Senegal,SPRING10,2,141,282,28,254
+28793,Essential Mart,6618,60,134,Home & Garden,2024-04-04,Credit Card,707 Erica Course,West Gregory,Senegal,None,1,75,75,0,75
+46549,Urban Goods,9294,29,160,Clothing,2024-04-03,Credit Card,7912 Melissa Extensions,South Heathertown,Benin,SPRING10,3,62,186,19,167
+70446,Essential Mart,3329,33,114,Books,2024-03-31,PayPal,39794 Wilson Port Apt. 880,Christophermouth,Austria,None,5,97,485,0,485
+43593,Essential Mart,3931,36,143,Clothing,2024-04-23,Credit Card,37246 Erickson Mission,South Stevenbury,China,FALL15,2,74,148,22,126
+83052,Pure Market,4529,23,100,Clothing,2024-04-08,Credit Card,4106 Julie Skyway,New Ashleyview,Montenegro,SUMMER20,2,155,310,62,248
+64046,Essential Mart,1998,65,147,Books,2024-04-01,Credit Card,4807 Daniel Gardens Suite 278,South Jonshire,United States Minor Outlying Islands,SPRING10,2,114,228,23,205
+23891,Pure Market,3394,49,117,Clothing,2024-04-16,PayPal,188 Johns Mountain,New David,Romania,SUMMER20,2,100,200,40,160
+27436,Essential Mart,1487,58,129,Home & Garden,2024-04-14,PayPal,878 Torres Shore,Humphreyshire,Botswana,None,4,60,240,0,240
+15403,Essential Mart,9588,39,133,Clothing,2024-04-04,Credit Card,4517 Moore Fort,Robertburgh,Niue,None,1,31,31,0,31
+52708,Pure Market,6845,29,129,Electronics,2024-04-19,Credit Card,24767 Judy River,New Jasonland,Seychelles,FALL15,3,108,324,49,275
+58720,Basic Depot,6100,63,141,Home & Garden,2024-04-20,PayPal,413 Perry Ports Suite 415,Port Lisa,Costa Rica,SPRING10,1,141,141,14,127
+73300,Pure Market,8705,43,173,Electronics,2024-04-02,PayPal,042 Carson Village Suite 473,Bryanhaven,British Indian Ocean Territory (Chagos Archipelago),SPRING10,3,54,162,16,146
+27650,Essential Mart,1037,50,121,Home & Garden,2024-04-24,Credit Card,477 Sarah Estates Suite 452,Chenmouth,Saint Barthelemy,SPRING10,5,99,495,50,445
+17221,Urban Goods,1391,54,154,Electronics,2024-04-13,PayPal,2992 Doyle Pine Suite 638,Port Williamburgh,Yemen,FALL15,2,192,384,58,326
+91155,Basic Depot,5393,34,192,Home & Garden,2024-04-03,Credit Card,183 Pugh Valley Suite 827,West Jessicaview,Peru,FALL15,2,150,300,45,255
+89200,Essential Mart,9236,39,123,Electronics,2024-04-16,Credit Card,79658 Nelson Burgs,North John,Nigeria,FALL15,1,114,114,17,97
+11851,Pure Market,7851,53,147,Books,2024-04-17,PayPal,089 Jeremy Hills Suite 632,South Anthony,Saudi Arabia,SPRING10,2,25,50,5,45
+96453,Urban Goods,8148,29,185,Clothing,2024-04-08,Credit Card,4437 Christopher Squares Apt. 089,Torreston,Aruba,SPRING10,1,72,72,7,65
+96172,Essential Mart,7728,47,132,Books,2024-04-25,PayPal,23382 Ashley Viaduct Apt. 182,Colleenton,Nicaragua,FALL15,1,80,80,12,68
+41240,Basic Depot,6464,46,161,Clothing,2024-04-02,Credit Card,77031 Alexis Mountain Apt. 097,Lake Paigemouth,Fiji,FALL15,1,181,181,27,154
+24102,Essential Mart,4704,57,120,Electronics,2024-04-16,Credit Card,10859 Christopher Centers,Lake Timothy,Barbados,SPRING10,4,131,524,52,472
+93094,Essential Mart,8747,30,142,Books,2024-04-14,PayPal,830 Hall Fall,Lake Sarahmouth,Falkland Islands (Malvinas),FALL15,1,60,60,9,51
+20050,Urban Goods,9243,48,183,Electronics,2024-04-09,Credit Card,394 Alejandro Crescent,East Scottberg,Norway,FALL15,2,66,132,20,112
+94060,Urban Goods,4012,23,154,Home & Garden,2024-04-25,Credit Card,450 Hart Estate,North Richard,Reunion,SPRING10,5,83,415,42,373
+41523,Urban Goods,7372,65,123,Clothing,2024-04-03,PayPal,3500 Charles Ports,Dickersonshire,Timor-Leste,SPRING10,1,144,144,14,130
+72070,Pure Market,2054,39,149,Home & Garden,2024-03-29,Credit Card,6727 Amy Center,Lake Anthonyport,Qatar,SPRING10,4,62,248,25,223
+38160,Basic Depot,5867,25,126,Home & Garden,2024-04-15,Credit Card,7793 Nicole Estates,Dorothyport,Slovenia,SPRING10,5,178,890,89,801
+26276,Basic Depot,6540,61,106,Home & Garden,2024-04-16,PayPal,9292 Porter Grove,East Joseph,El Salvador,SUMMER20,1,51,51,10,41
+92397,Essential Mart,8718,63,120,Home & Garden,2024-04-09,PayPal,14927 Sheryl Tunnel,Hollandberg,Guyana,SUMMER20,4,191,764,153,611
+67655,Urban Goods,2635,44,134,Home & Garden,2024-04-11,Credit Card,1782 Rodriguez Hollow Apt. 026,Bradport,Libyan Arab Jamahiriya,SUMMER20,5,131,655,131,524
+43550,Urban Goods,9728,59,194,Clothing,2024-04-12,PayPal,7856 Phillips Rue Suite 734,Millershire,Kazakhstan,SPRING10,4,125,500,50,450
+13267,Essential Mart,3240,56,175,Books,2024-03-30,Credit Card,50361 Travis Extensions,West Elizabethfurt,Tokelau,SUMMER20,5,148,740,148,592
+87300,Essential Mart,8672,32,101,Books,2024-04-19,Credit Card,283 Herring Port Apt. 061,Rachelfurt,Libyan Arab Jamahiriya,SUMMER20,4,198,792,158,634
+87918,Pure Market,7779,35,169,Clothing,2024-04-09,PayPal,044 Harris Shoal,South Melissaborough,Cape Verde,FALL15,2,124,248,37,211
+45879,Essential Mart,9556,42,116,Books,2024-04-08,Credit Card,206 Mitchell Trail,Leonardport,Cuba,FALL15,5,113,565,85,480
+71563,Essential Mart,9795,48,177,Home & Garden,2024-04-04,Credit Card,082 Moore Fort,Davidburgh,Iraq,SUMMER20,4,69,276,55,221
+28196,Basic Depot,7025,25,161,Books,2024-04-21,Credit Card,779 Marsh Garden,Port Robert,Tanzania,SUMMER20,2,117,234,47,187
+64244,Essential Mart,8220,26,116,Electronics,2024-04-24,Credit Card,8540 Michael Union,Wilsonbury,Switzerland,FALL15,3,100,300,45,255
+13054,Essential Mart,5244,43,198,Home & Garden,2024-03-28,Credit Card,42708 Valerie Spring,Hansonmouth,Bosnia and Herzegovina,FALL15,5,99,495,74,421
+23786,Pure Market,9005,58,120,Home & Garden,2024-04-17,Credit Card,7233 Darren Stream Apt. 305,Lake Mistybury,Suriname,FALL15,5,173,865,130,735
+95624,Urban Goods,6697,54,130,Electronics,2024-04-01,Credit Card,0526 Sanchez Station,Valdezport,Georgia,FALL15,1,113,113,17,96
+43882,Basic Depot,9376,47,125,Electronics,2024-03-27,PayPal,57570 Green Meadow,Castrostad,Chad,None,4,137,548,0,548
+16668,Pure Market,3059,33,173,Home & Garden,2024-03-30,PayPal,15036 Allen Underpass Apt. 948,Lake Michael,Oman,SPRING10,4,84,336,34,302
+80493,Urban Goods,1141,56,154,Electronics,2024-04-20,Credit Card,070 Williamson Plaza,Callahanville,Congo,SPRING10,3,137,411,41,370
+92204,Pure Market,3421,54,190,Electronics,2024-04-13,PayPal,5054 Sara Centers Suite 712,Martineztown,Guinea-Bissau,SUMMER20,5,52,260,52,208
+86270,Basic Depot,3183,31,187,Books,2024-04-19,Credit Card,526 Charles Well Suite 176,Lake Johnland,Benin,FALL15,1,60,60,9,51
+58975,Basic Depot,3579,39,160,Home & Garden,2024-04-06,PayPal,2852 Anna Terrace Suite 119,South Joshuaville,Trinidad and Tobago,FALL15,3,61,183,27,156
+34912,Basic Depot,3520,34,199,Clothing,2024-04-17,Credit Card,684 Bell Crossing,Lake Matthewchester,Kiribati,SPRING10,5,21,105,10,95
+45462,Pure Market,2650,55,187,Clothing,2024-03-27,Credit Card,57055 William Tunnel Suite 982,Hicksside,Cuba,None,3,146,438,0,438
+32763,Basic Depot,7224,49,132,Clothing,2024-04-21,PayPal,06211 Dodson Union,East Brendahaven,Egypt,FALL15,3,198,594,89,505
+94631,Essential Mart,5205,38,134,Books,2024-04-19,Credit Card,8813 Turner Meadow Suite 576,Port Andrea,Niger,SUMMER20,1,178,178,36,142
+88710,Basic Depot,7783,54,197,Clothing,2024-04-15,PayPal,87180 Lyons Dam Suite 904,West Marymouth,Brazil,FALL15,4,168,672,101,571
+50099,Basic Depot,2471,60,146,Books,2024-04-13,Credit Card,0063 Harrington Stravenue Apt. 065,Roberttown,Sweden,SUMMER20,3,66,198,40,158
+78900,Essential Mart,9534,59,172,Electronics,2024-04-23,Credit Card,765 Gibbs Highway,Freemanstad,Czech Republic,FALL15,4,172,688,103,585
+62828,Urban Goods,1046,61,169,Electronics,2024-04-13,PayPal,8797 John Corner Suite 246,Taylorbury,Tunisia,SPRING10,2,182,364,36,328
+92050,Pure Market,7251,48,185,Home & Garden,2024-04-03,PayPal,577 Rivers Ferry,Jamesborough,United States Virgin Islands,SPRING10,4,37,148,15,133
+72670,Pure Market,6017,38,168,Books,2024-04-23,PayPal,57951 Meyer Cliff,Christinaburgh,Papua New Guinea,None,3,152,456,0,456
+84853,Essential Mart,8869,27,161,Home & Garden,2024-04-09,PayPal,323 Carlson Shore,West Monica,Brunei Darussalam,FALL15,4,76,304,46,258
+90751,Basic Depot,2218,49,152,Books,2024-04-05,Credit Card,6201 Rivera Haven Suite 559,North Annetteburgh,Palau,SPRING10,4,51,204,20,184
+59776,Basic Depot,9089,54,168,Clothing,2024-04-21,Credit Card,51998 Andrea Run Suite 312,Lindafurt,Taiwan,FALL15,4,33,132,20,112
+74638,Essential Mart,3280,31,141,Electronics,2024-03-30,PayPal,063 Stephens Estate Apt. 737,Whitemouth,Costa Rica,SUMMER20,3,118,354,71,283
+39660,Essential Mart,7364,24,131,Clothing,2024-04-10,Credit Card,8878 Sherri Mountain,Port Amandaville,Isle of Man,SUMMER20,2,191,382,76,306
+75157,Pure Market,6360,47,151,Books,2024-03-27,Credit Card,488 Rogers Loaf Suite 985,Port Heatherland,Nauru,SUMMER20,3,137,411,82,329
+41140,Basic Depot,1380,24,186,Clothing,2024-03-28,Credit Card,239 Travis Forge,Michaelton,Eritrea,SPRING10,4,65,260,26,234
+60453,Pure Market,8382,25,185,Home & Garden,2024-04-18,PayPal,267 Amanda Shore Suite 760,Port Amber,Holy See (Vatican City State),SPRING10,3,147,441,44,397
+57667,Pure Market,5685,35,135,Books,2024-04-24,Credit Card,9274 Jones Lights,Bergerberg,Poland,FALL15,4,118,472,71,401
+98764,Pure Market,6235,61,114,Clothing,2024-04-06,Credit Card,10982 Brooks Roads Suite 765,Martinhaven,Slovenia,SUMMER20,4,124,496,99,397
+39958,Urban Goods,8862,37,122,Books,2024-04-24,PayPal,137 Reid Viaduct Suite 645,Bellside,Cyprus,None,1,116,116,0,116
+41074,Basic Depot,8245,50,152,Home & Garden,2024-04-02,PayPal,6971 Young Creek Apt. 332,West Susanshire,Myanmar,SUMMER20,2,110,220,44,176
+89814,Pure Market,7484,38,105,Clothing,2024-03-31,PayPal,961 Max Mountain Apt. 928,South Samuel,Uzbekistan,SUMMER20,1,118,118,24,94
+69574,Urban Goods,5951,56,168,Books,2024-04-16,PayPal,512 Sarah Mill Suite 752,East Kennethbury,Australia,None,5,32,160,0,160
+16801,Basic Depot,7633,29,102,Books,2024-04-24,Credit Card,30772 Rachel Neck,Paulhaven,Venezuela,FALL15,5,69,345,52,293
+92245,Pure Market,4046,42,170,Clothing,2024-04-01,PayPal,789 Donald Forks,Lake Jose,Tonga,FALL15,1,198,198,30,168
+10626,Pure Market,9291,40,101,Home & Garden,2024-03-31,Credit Card,232 Meadows Rue,New Joseph,Singapore,FALL15,1,56,56,8,48
+91572,Urban Goods,9890,35,142,Home & Garden,2024-04-07,Credit Card,1649 Richardson Junctions,New Brittneyport,Canada,None,4,189,756,0,756
+12548,Pure Market,8544,32,151,Clothing,2024-04-11,Credit Card,653 Taylor Estates Apt. 979,Lake Kimberly,Hungary,SPRING10,4,170,680,68,612
+80169,Basic Depot,2580,57,103,Electronics,2024-04-16,PayPal,97995 Andrew Path,Reidville,Barbados,FALL15,2,66,132,20,112
+86515,Pure Market,3975,23,163,Home & Garden,2024-04-15,PayPal,59432 Key Route Apt. 994,Port Diamondside,Cook Islands,None,4,77,308,0,308
+12758,Essential Mart,7330,60,145,Books,2024-04-10,PayPal,54176 Patterson Walks Suite 429,New Scottborough,San Marino,SUMMER20,4,138,552,110,442
+40612,Basic Depot,5997,25,113,Electronics,2024-04-05,PayPal,7858 Carter Throughway Apt. 150,Nathanielchester,Belarus,FALL15,1,164,164,25,139
+25005,Basic Depot,5636,39,101,Books,2024-04-09,Credit Card,896 Ann Skyway,Palmerside,Palestinian Territory,SPRING10,2,78,156,16,140
+58213,Essential Mart,3781,36,179,Electronics,2024-03-31,PayPal,37694 Robert Ramp,Zavalahaven,Lithuania,FALL15,4,181,724,109,615
+23750,Essential Mart,3281,49,150,Home & Garden,2024-04-08,PayPal,907 Mercado Port Apt. 290,South Moniqueland,Colombia,None,3,165,495,0,495
+36966,Pure Market,4317,64,118,Books,2024-04-06,PayPal,10278 Jackson Walks Suite 375,Davidtown,Nicaragua,FALL15,2,120,240,36,204
+44791,Pure Market,6786,48,111,Clothing,2024-04-02,PayPal,4890 Clark Locks,Justinmouth,Cape Verde,SPRING10,4,110,440,44,396
+85595,Basic Depot,9587,35,143,Electronics,2024-04-16,Credit Card,775 Lewis Crossing Suite 543,Matthewhaven,Mayotte,SPRING10,2,131,262,26,236
+98732,Pure Market,2810,36,165,Electronics,2024-04-06,PayPal,4337 Williams Overpass,Deanshire,Saint Martin,None,3,174,522,0,522
+38535,Essential Mart,5230,29,108,Clothing,2024-04-07,Credit Card,3224 Stacey Motorway,Thorntonchester,Guadeloupe,FALL15,3,56,168,25,143
+22071,Basic Depot,7041,27,151,Home & Garden,2024-03-30,PayPal,794 Geoffrey Orchard,Port Juan,Netherlands,SUMMER20,1,67,67,13,54
+39048,Pure Market,5891,62,196,Books,2024-03-28,Credit Card,647 Tyler Grove,Kiddfort,Guatemala,FALL15,2,21,42,6,36
+50830,Pure Market,1397,38,111,Home & Garden,2024-04-01,PayPal,93694 Scott Crescent,Lozanohaven,Israel,FALL15,5,153,765,115,650
+99857,Pure Market,9861,59,187,Electronics,2024-04-14,PayPal,95650 Powers Drives,South Timothyfort,Canada,FALL15,5,163,815,122,693
+32506,Essential Mart,4592,50,107,Home & Garden,2024-03-30,PayPal,196 Micheal Lakes Apt. 405,Lake Gregory,Nauru,SUMMER20,3,130,390,78,312
+99813,Urban Goods,2263,41,114,Clothing,2024-04-17,Credit Card,86013 Stephanie Garden,Gloriaburgh,Sweden,SPRING10,5,23,115,12,103
+56820,Basic Depot,4900,37,165,Books,2024-03-31,Credit Card,084 Michael Forge Suite 487,Lake Brittany,Brazil,SPRING10,5,120,600,60,540
+25822,Pure Market,5800,28,101,Home & Garden,2024-04-04,Credit Card,3060 Johnson Ports Suite 508,West Michellefurt,Nigeria,None,3,87,261,0,261
+26673,Essential Mart,4936,62,128,Books,2024-04-03,Credit Card,571 Martinez Oval Suite 559,Lake Randy,Ethiopia,FALL15,1,62,62,9,53
+27021,Pure Market,1564,62,131,Books,2024-04-16,PayPal,66568 Jones Isle,Brownborough,Bolivia,SUMMER20,4,117,468,94,374
+19256,Pure Market,2306,54,129,Books,2024-04-12,Credit Card,80639 Barton Viaduct Suite 137,Loveshire,Qatar,SPRING10,2,40,80,8,72
+87043,Essential Mart,2749,56,108,Books,2024-04-18,Credit Card,072 Crawford Lock Suite 634,North Antonioport,Tokelau,None,4,143,572,0,572
+79081,Essential Mart,4277,43,163,Electronics,2024-04-09,Credit Card,0398 Floyd Falls Suite 301,Fergusonhaven,France,SPRING10,5,170,850,85,765
+76076,Pure Market,9832,32,145,Home & Garden,2024-04-06,Credit Card,33735 Hall Locks,North Emma,Iraq,None,3,156,468,0,468
+83146,Essential Mart,7859,32,153,Books,2024-04-02,Credit Card,15268 Chase Loop Apt. 676,New Briannashire,Lithuania,SUMMER20,2,160,320,64,256
+80722,Pure Market,8854,36,150,Books,2024-04-15,Credit Card,503 Newman Cove,Stacieland,Poland,SPRING10,4,160,640,64,576
+22202,Urban Goods,2186,40,151,Clothing,2024-04-02,PayPal,5046 Alexander Way,West Anthony,Iran,FALL15,5,75,375,56,319
+34773,Pure Market,7538,54,121,Electronics,2024-04-22,PayPal,57997 Amy Corners Suite 068,Port Carolport,Paraguay,FALL15,2,32,64,10,54
+90243,Pure Market,7168,42,110,Books,2024-03-28,Credit Card,570 Williams Course Apt. 075,New Jeannechester,Uruguay,None,5,147,735,0,735
+44046,Pure Market,8824,41,160,Home & Garden,2024-04-20,Credit Card,2375 Jared Station,Richardfurt,Niue,SUMMER20,3,142,426,85,341
+50535,Pure Market,9989,31,173,Electronics,2024-03-29,PayPal,5347 Nancy Row Suite 994,Port Shellyberg,Togo,None,2,55,110,0,110
+85379,Basic Depot,4544,49,104,Books,2024-04-06,Credit Card,864 Hughes Fords Apt. 246,South Jasonfurt,Belarus,SUMMER20,1,184,184,37,147
+77558,Urban Goods,6610,54,186,Clothing,2024-04-06,PayPal,76767 Miller Burgs,Cynthiaside,Micronesia,SUMMER20,5,89,445,89,356
+39410,Basic Depot,4681,24,124,Home & Garden,2024-04-10,PayPal,0835 Robert Falls,Garzastad,Maldives,None,1,168,168,0,168
+47749,Basic Depot,1348,65,156,Clothing,2024-04-19,PayPal,3138 Jane Expressway Suite 912,Gambleland,Oman,None,2,130,260,0,260
+21723,Pure Market,9331,41,157,Electronics,2024-03-29,PayPal,5078 Kathryn Roads Apt. 849,New Andrew,Hungary,SUMMER20,3,168,504,101,403
+27577,Essential Mart,2772,65,188,Electronics,2024-04-10,Credit Card,445 Wyatt Fork,Deantown,Maldives,SPRING10,3,95,285,28,257
+36147,Pure Market,1830,45,149,Clothing,2024-04-25,PayPal,092 Wolfe Way,Port Shirleyton,Liberia,SPRING10,3,194,582,58,524
+95779,Urban Goods,1955,27,100,Home & Garden,2024-04-19,PayPal,0694 Katherine Locks Suite 143,Powellhaven,Portugal,SUMMER20,4,56,224,45,179
+30729,Basic Depot,1430,33,131,Home & Garden,2024-04-04,PayPal,0890 Paul Dam,Kennethberg,Gabon,SPRING10,3,57,171,17,154
+17917,Essential Mart,9222,52,188,Books,2024-04-12,PayPal,5734 Turner Turnpike Suite 884,Denisemouth,Papua New Guinea,None,3,190,570,0,570
+74867,Urban Goods,9100,46,186,Home & Garden,2024-04-24,PayPal,1027 Martha Manor,Jeremyfurt,Ghana,SUMMER20,1,38,38,8,30
+38570,Essential Mart,5915,34,142,Home & Garden,2024-04-15,PayPal,936 Davidson Hill Suite 926,Lake Jon,Faroe Islands,FALL15,3,172,516,77,439
+21641,Essential Mart,1055,45,198,Clothing,2024-04-06,PayPal,64438 Anderson Prairie Suite 343,New Robertmouth,Haiti,FALL15,2,133,266,40,226
+69542,Essential Mart,9388,39,199,Home & Garden,2024-04-15,Credit Card,881 Andrew Keys Apt. 937,North Jimmy,Germany,SUMMER20,4,150,600,120,480
+53255,Essential Mart,2496,60,139,Books,2024-03-27,Credit Card,8017 Baldwin View Suite 755,Port James,Venezuela,FALL15,2,174,348,52,296
+58129,Essential Mart,7603,41,131,Books,2024-04-02,PayPal,252 Griffin Lodge Apt. 735,Laceymouth,Philippines,SPRING10,3,162,486,49,437
+19165,Basic Depot,7040,48,134,Home & Garden,2024-03-27,Credit Card,784 Jennifer Centers,North Joshua,Cocos (Keeling) Islands,SUMMER20,2,158,316,63,253
+37670,Basic Depot,6147,54,186,Clothing,2024-04-07,PayPal,10062 Kyle Shoal Suite 229,North Michelleville,Mali,SPRING10,3,83,249,25,224
+52612,Urban Goods,6266,49,162,Electronics,2024-04-01,Credit Card,610 Bender Forest,Braunville,Guernsey,SUMMER20,2,132,264,53,211
+68942,Pure Market,3592,42,162,Books,2024-04-09,Credit Card,6423 Jeffrey Club,Paulstad,Iran,None,1,113,113,0,113
+75282,Essential Mart,7292,28,135,Home & Garden,2024-04-19,PayPal,83525 Martinez Meadow,East Gina,Congo,SUMMER20,4,118,472,94,378
+66945,Pure Market,9464,37,154,Books,2024-04-25,Credit Card,7350 Morris Overpass,South Isaiah,Belgium,SUMMER20,2,99,198,40,158
+85455,Essential Mart,7416,53,171,Books,2024-04-02,PayPal,5744 Chavez Roads,Birdview,Ukraine,None,5,64,320,0,320
+33332,Urban Goods,8060,33,156,Home & Garden,2024-04-21,Credit Card,540 Green Hollow,Gregorybury,Christmas Island,SUMMER20,3,193,579,116,463
+97910,Urban Goods,6515,30,120,Electronics,2024-04-20,Credit Card,3409 Crane Flat,West Thomasshire,Australia,FALL15,2,123,246,37,209
+71115,Urban Goods,1768,42,195,Home & Garden,2024-04-20,Credit Card,9834 Barber Dale,Mckinneychester,Togo,SUMMER20,2,118,236,47,189
+75314,Urban Goods,1228,55,168,Clothing,2024-04-21,Credit Card,6111 Smith Stravenue Suite 581,Stoutmouth,Congo,SUMMER20,5,166,830,166,664
+74634,Basic Depot,3101,56,143,Clothing,2024-04-23,Credit Card,349 Huynh Stravenue,North Katie,Philippines,None,1,34,34,0,34
+94799,Pure Market,2482,47,192,Electronics,2024-04-07,Credit Card,009 Jeffrey Turnpike Apt. 869,Rachaelchester,Isle of Man,None,4,53,212,0,212
+54713,Basic Depot,7712,49,112,Home & Garden,2024-04-18,Credit Card,045 John Run Apt. 427,Miaburgh,Guernsey,SPRING10,1,187,187,19,168
+17633,Urban Goods,1659,24,145,Clothing,2024-04-12,Credit Card,6837 Jordan Camp,Eugenetown,Iran,SPRING10,2,125,250,25,225
+57487,Basic Depot,5973,58,171,Books,2024-04-19,PayPal,2665 Amber Ranch,Kevinton,Maldives,FALL15,5,171,855,128,727
+54371,Essential Mart,3236,57,174,Books,2024-04-04,PayPal,6418 Travis Ways Apt. 398,North Deborahview,Indonesia,SPRING10,2,121,242,24,218
+22886,Basic Depot,1434,36,124,Clothing,2024-03-31,Credit Card,7085 Weiss Mountain Suite 271,Elizabethmouth,Nigeria,None,4,146,584,0,584
+62202,Basic Depot,8200,31,168,Electronics,2024-03-28,PayPal,0340 William Drive,Lake Carla,Uzbekistan,SPRING10,1,153,153,15,138
+35879,Essential Mart,2433,51,199,Clothing,2024-04-13,PayPal,36368 Reed Circle,North Bruceport,Russian Federation,SUMMER20,5,84,420,84,336
+88596,Urban Goods,3779,32,167,Home & Garden,2024-04-04,PayPal,128 Rios Centers Suite 617,East Brandy,Puerto Rico,SPRING10,2,167,334,33,301
+50196,Basic Depot,9246,58,169,Books,2024-04-15,PayPal,72474 Becker Extensions Suite 723,New Joshualand,Uganda,None,4,139,556,0,556
+88149,Basic Depot,2010,39,125,Home & Garden,2024-04-10,Credit Card,970 Martinez Valley Suite 027,Odomville,Morocco,FALL15,3,134,402,60,342
+78239,Pure Market,1569,30,143,Books,2024-04-13,Credit Card,6109 Shelia Fall Apt. 543,Davidport,Equatorial Guinea,None,5,92,460,0,460
+19137,Pure Market,5090,22,136,Clothing,2024-04-01,Credit Card,05846 Ball Ridge,Port Gregory,Switzerland,None,4,99,396,0,396
+45412,Basic Depot,3227,63,193,Electronics,2024-04-01,PayPal,85568 Taylor Shoal Suite 909,Lindastad,Jamaica,None,2,63,126,0,126
+54433,Basic Depot,1119,22,116,Electronics,2024-04-15,Credit Card,0084 Cooper Locks,West Mikaylaside,Greece,SUMMER20,2,27,54,11,43
+30935,Basic Depot,1925,49,176,Clothing,2024-04-03,Credit Card,274 Kelly Camp Suite 681,North Mary,Swaziland,SUMMER20,4,187,748,150,598
+65947,Pure Market,8646,55,197,Clothing,2024-04-01,PayPal,624 Woods Ridge Apt. 034,Williamsshire,Guinea-Bissau,SUMMER20,1,95,95,19,76
+20468,Urban Goods,3714,26,174,Home & Garden,2024-04-13,Credit Card,735 Allen Tunnel Apt. 421,Jessicaton,Tonga,FALL15,5,60,300,45,255
+86934,Essential Mart,6561,36,181,Books,2024-04-18,PayPal,82281 Gomez Hill Suite 139,South Hannahberg,Peru,None,5,122,610,0,610
+97111,Pure Market,8517,32,145,Electronics,2024-04-09,PayPal,7696 Tony Villages Apt. 728,Markview,Finland,None,3,64,192,0,192
+61445,Pure Market,6934,25,198,Home & Garden,2024-04-15,Credit Card,4891 Edward Turnpike Apt. 514,Karlchester,Uzbekistan,None,5,75,375,0,375
+33866,Essential Mart,8912,59,133,Electronics,2024-04-11,Credit Card,29272 Bradley Row,Port Christine,Montserrat,FALL15,3,123,369,55,314
+28941,Essential Mart,9437,41,155,Clothing,2024-04-24,Credit Card,814 Rodriguez Cove Apt. 570,West Hailey,Saudi Arabia,SPRING10,4,187,748,75,673
+38163,Essential Mart,4892,32,151,Electronics,2024-03-28,Credit Card,93263 Ashley Turnpike,Christopherchester,United Kingdom,SPRING10,3,44,132,13,119
+22289,Basic Depot,7199,57,177,Home & Garden,2024-03-29,PayPal,2616 Charles Flats Apt. 607,Wandaborough,Zimbabwe,None,3,166,498,0,498
+21582,Essential Mart,9554,49,196,Electronics,2024-04-23,PayPal,02771 David Centers Apt. 257,East Jacob,Bermuda,None,5,55,275,0,275
+56847,Essential Mart,9902,50,198,Home & Garden,2024-03-31,PayPal,8666 Lynn Square,North Stephanie,Haiti,SPRING10,1,26,26,3,23
+52208,Urban Goods,6694,55,103,Clothing,2024-04-14,Credit Card,69855 Tammy Avenue Apt. 926,New Crystalmouth,Faroe Islands,None,4,39,156,0,156
+66683,Basic Depot,2558,28,162,Books,2024-04-06,PayPal,980 Taylor Plaza,Rosschester,Poland,SPRING10,3,83,249,25,224
+88184,Pure Market,9485,60,143,Clothing,2024-03-28,Credit Card,98293 Barnes Glens,Evansborough,Cameroon,None,4,47,188,0,188
+73349,Urban Goods,9805,48,166,Electronics,2024-04-23,PayPal,2994 Jerry Manors Suite 801,Floresland,Tunisia,None,2,183,366,0,366
+51546,Basic Depot,8517,63,105,Home & Garden,2024-04-17,Credit Card,35202 Bryan Avenue,Lopeztown,Christmas Island,SUMMER20,5,112,560,112,448
+47661,Urban Goods,4097,26,157,Home & Garden,2024-04-14,PayPal,52845 James Knolls,West Fernando,India,FALL15,2,125,250,38,212
+78178,Essential Mart,6817,31,152,Electronics,2024-04-14,PayPal,22296 Valerie Islands,Cohenmouth,Falkland Islands (Malvinas),SUMMER20,4,50,200,40,160
+54696,Basic Depot,2175,28,173,Home & Garden,2024-04-10,PayPal,1398 Bryan Plaza Apt. 376,Hicksmouth,Oman,SUMMER20,1,88,88,18,70
+44497,Essential Mart,9646,37,108,Books,2024-04-17,PayPal,7627 Jessica Gardens Apt. 199,New Andrewtown,Vietnam,FALL15,5,86,430,64,366
+56053,Essential Mart,4916,59,168,Electronics,2024-04-15,PayPal,44651 Anita Mall Apt. 646,Arnoldborough,Germany,FALL15,1,60,60,9,51
+98614,Basic Depot,5434,52,165,Electronics,2024-04-03,PayPal,6996 Wright Radial Suite 504,West Jessica,Cuba,SPRING10,2,52,104,10,94
+64303,Urban Goods,1224,45,113,Electronics,2024-04-15,PayPal,273 Aguirre Junctions,West Donaldbury,El Salvador,SPRING10,1,130,130,13,117
+45246,Urban Goods,5945,36,100,Books,2024-04-08,Credit Card,745 Evan Walks,East Terrifurt,British Indian Ocean Territory (Chagos Archipelago),SPRING10,3,38,114,11,103
+82087,Basic Depot,5790,55,125,Home & Garden,2024-04-07,PayPal,72464 Hall Unions,Port Savannah,Portugal,None,3,124,372,0,372
+64612,Basic Depot,4483,65,189,Home & Garden,2024-04-20,PayPal,0235 Jeremiah Extension,East Dakota,Kyrgyz Republic,SUMMER20,4,72,288,58,230
+35784,Essential Mart,7658,26,142,Clothing,2024-04-10,Credit Card,71290 Brian Views,Jamesside,Tonga,FALL15,4,68,272,41,231
+77803,Pure Market,1572,48,106,Electronics,2024-04-15,PayPal,898 Elizabeth Centers Suite 730,Colleenville,Netherlands Antilles,None,4,153,612,0,612
+86093,Pure Market,7861,53,132,Clothing,2024-04-24,PayPal,5037 Teresa Shore,Hernandezland,Botswana,None,2,39,78,0,78
+68007,Basic Depot,8168,56,169,Electronics,2024-04-04,PayPal,58308 Alicia Turnpike,Angiefort,Tokelau,FALL15,3,86,258,39,219
+75809,Essential Mart,2603,50,154,Electronics,2024-04-14,PayPal,6675 Cochran Park Apt. 504,Port Brandonmouth,Kuwait,SUMMER20,2,61,122,24,98
+24635,Urban Goods,7229,64,163,Books,2024-04-17,Credit Card,286 Barnes Courts,Oneillmouth,China,None,2,79,158,0,158
+77681,Pure Market,9674,63,104,Electronics,2024-03-28,PayPal,31111 Jackson Courts,Toddberg,Barbados,None,5,86,430,0,430
+70355,Urban Goods,8519,35,168,Electronics,2024-04-11,PayPal,85339 Elliott Club,Saraborough,Luxembourg,None,1,153,153,0,153
+56866,Urban Goods,1513,40,174,Home & Garden,2024-04-08,PayPal,41445 Ruiz Dale,Kimfurt,Chile,SPRING10,5,152,760,76,684
+11531,Basic Depot,2556,35,197,Electronics,2024-04-09,Credit Card,77425 Peggy Crossing,Youngland,Chile,None,5,117,585,0,585
+31232,Basic Depot,3040,57,145,Electronics,2024-04-20,PayPal,862 Brandy Knoll,New Oscar,Moldova,SPRING10,3,139,417,42,375
+33546,Pure Market,8710,39,132,Electronics,2024-04-01,Credit Card,64632 Curtis Dale Suite 547,West Blakeburgh,Namibia,SUMMER20,2,184,368,74,294
+19051,Urban Goods,9564,39,177,Clothing,2024-04-20,Credit Card,371 Jennifer Dam Suite 150,Gregoryfort,Uzbekistan,None,3,76,228,0,228
+81778,Basic Depot,5829,25,108,Clothing,2024-03-28,PayPal,92002 James Rue Apt. 464,Micheleland,Azerbaijan,SUMMER20,2,33,66,13,53
+65464,Pure Market,3888,55,154,Home & Garden,2024-04-14,PayPal,701 Brittany Coves,North Juanhaven,Germany,SPRING10,4,164,656,66,590
+15895,Essential Mart,5073,58,176,Home & Garden,2024-04-13,PayPal,241 Robert Hills Apt. 450,Stewartburgh,Bosnia and Herzegovina,SPRING10,2,155,310,31,279
+64393,Essential Mart,7628,40,149,Home & Garden,2024-04-12,PayPal,031 Jeffery Pine Suite 301,Port Cassandraview,Ecuador,SPRING10,1,57,57,6,51
+14742,Essential Mart,1360,31,103,Clothing,2024-04-17,PayPal,60658 Brian Mount Apt. 759,Cherylfurt,Papua New Guinea,SPRING10,5,83,415,42,373
+96788,Essential Mart,7576,62,152,Home & Garden,2024-03-27,Credit Card,7880 Brown Park,Aguilarton,Tonga,None,3,163,489,0,489
+53661,Pure Market,4647,48,123,Electronics,2024-04-16,PayPal,34207 Miguel Squares,Lake Ambertown,Cayman Islands,SPRING10,2,137,274,27,247
+27110,Urban Goods,1394,41,195,Clothing,2024-04-20,Credit Card,1726 Brady Trail,Port Kimberlyside,Macao,None,5,28,140,0,140
+25823,Essential Mart,5172,34,124,Electronics,2024-04-04,Credit Card,53045 Robert Port Suite 108,Jeanneside,Saint Pierre and Miquelon,SPRING10,2,57,114,11,103
+39634,Pure Market,5520,60,165,Clothing,2024-04-22,Credit Card,8077 Carol Causeway,South Kevinside,Seychelles,None,1,36,36,0,36
+51674,Urban Goods,2643,22,176,Books,2024-04-16,Credit Card,3845 Betty Crossing Suite 489,North Chelseaview,Saint Pierre and Miquelon,SUMMER20,1,196,196,39,157
+40757,Basic Depot,1565,53,195,Home & Garden,2024-04-20,Credit Card,01355 Diana Summit,North Virginiaview,Aruba,SUMMER20,2,66,132,26,106
+50101,Pure Market,1709,25,110,Clothing,2024-03-27,Credit Card,9976 Murphy Villages Suite 379,Sanchezbury,Madagascar,SUMMER20,4,91,364,73,291
+32001,Basic Depot,4745,47,158,Books,2024-04-15,PayPal,384 Gregory Unions Suite 197,New Kayla,Comoros,None,1,129,129,0,129
+58637,Basic Depot,8722,62,100,Electronics,2024-04-12,PayPal,28970 Carol Fords,Baldwintown,Uruguay,SPRING10,5,131,655,66,589
+45915,Urban Goods,4970,49,167,Clothing,2024-04-09,Credit Card,0596 Gonzales Orchard Suite 880,Lake Ana,Grenada,FALL15,3,153,459,69,390
+59761,Basic Depot,5571,60,144,Books,2024-04-06,Credit Card,97163 Wilson Points,West Holly,Lesotho,FALL15,1,192,192,29,163
+64052,Urban Goods,8282,24,163,Home & Garden,2024-03-30,PayPal,9129 Laura Plains,South Ericfort,Ireland,SPRING10,5,53,265,26,239
+67528,Essential Mart,1031,53,138,Home & Garden,2024-04-07,PayPal,1616 Leslie Walks Apt. 962,New Suzanne,Seychelles,SUMMER20,1,90,90,18,72
+49779,Essential Mart,4842,48,129,Books,2024-04-10,PayPal,2192 Haley Isle Suite 411,East Alexis,Bangladesh,SPRING10,5,192,960,96,864
+91705,Pure Market,1511,59,160,Books,2024-04-25,PayPal,631 Thompson Cliff,Port Christopherport,Slovenia,SUMMER20,4,61,244,49,195
+38831,Basic Depot,2820,63,119,Home & Garden,2024-04-16,Credit Card,825 Olivia Junctions Apt. 629,East Kaitlyntown,Sri Lanka,FALL15,1,59,59,9,50
+29548,Urban Goods,3034,27,177,Electronics,2024-04-03,Credit Card,18736 Benjamin Key Apt. 839,Williamsport,Christmas Island,None,1,182,182,0,182
+33179,Essential Mart,5144,42,168,Books,2024-04-19,Credit Card,72873 Antonio Ferry Apt. 924,Sharonshire,Nigeria,SPRING10,1,68,68,7,61
+29810,Basic Depot,4093,48,148,Clothing,2024-03-31,PayPal,074 Rachel Stravenue,New Laurafurt,Haiti,SUMMER20,4,185,740,148,592
+75785,Basic Depot,9312,30,124,Books,2024-04-02,Credit Card,9278 Thomas Unions Apt. 387,Catherineport,Guinea,SUMMER20,4,124,496,99,397
+77490,Basic Depot,1142,32,184,Home & Garden,2024-04-21,Credit Card,852 Lloyd Cape,Nelsontown,Guinea,SUMMER20,5,49,245,49,196
+48545,Urban Goods,2981,59,185,Books,2024-04-21,Credit Card,318 Vega Parks,Roachhaven,Iraq,None,5,187,935,0,935
+78684,Urban Goods,6662,63,128,Home & Garden,2024-04-16,PayPal,418 Elizabeth Gateway Suite 539,Diazview,Uzbekistan,FALL15,1,92,92,14,78
+14683,Essential Mart,6934,60,181,Clothing,2024-03-29,PayPal,453 Odonnell Cliffs,Danaberg,Slovenia,SUMMER20,4,164,656,131,525
+27213,Urban Goods,7421,29,192,Home & Garden,2024-04-08,Credit Card,340 Clark Route Suite 357,Port Daniel,Chile,None,3,21,63,0,63
+65383,Urban Goods,9402,33,188,Home & Garden,2024-03-29,PayPal,4204 Smith Parks Apt. 361,Ronaldmouth,Slovenia,None,3,155,465,0,465
+35910,Essential Mart,9740,28,147,Books,2024-04-09,Credit Card,9680 Duncan Neck Apt. 735,West Sarahshire,Congo,FALL15,1,76,76,11,65
+65895,Basic Depot,2763,56,192,Books,2024-04-04,PayPal,09833 Kathleen Harbor,Lake Stevenville,Iraq,SPRING10,4,96,384,38,346
+31783,Urban Goods,8694,22,109,Home & Garden,2024-04-08,Credit Card,274 Carol Mall,East Danamouth,Cyprus,SPRING10,1,118,118,12,106
+17945,Essential Mart,6806,39,119,Home & Garden,2024-03-28,PayPal,2214 Joshua Fort,Reedhaven,Latvia,FALL15,5,100,500,75,425
+11786,Essential Mart,1816,59,188,Home & Garden,2024-04-16,PayPal,954 Anthony Meadows Apt. 350,Port Lauraside,Equatorial Guinea,SPRING10,1,142,142,14,128
+78815,Pure Market,2558,51,106,Books,2024-04-13,Credit Card,19048 Waters Island,Port Bryan,Isle of Man,SUMMER20,4,34,136,27,109
+95233,Essential Mart,4332,48,125,Home & Garden,2024-04-20,PayPal,145 Sherman Mews,New Cathystad,Libyan Arab Jamahiriya,SUMMER20,1,47,47,9,38
+27823,Basic Depot,8350,64,122,Books,2024-03-27,Credit Card,6300 Sarah Overpass Suite 203,Garyton,Marshall Islands,SPRING10,4,171,684,68,616
+97118,Urban Goods,3635,49,183,Clothing,2024-04-25,PayPal,07063 Renee Rapid Apt. 635,Smithton,Palestinian Territory,None,4,85,340,0,340
+78715,Urban Goods,3510,31,111,Electronics,2024-04-03,Credit Card,93993 Amber Circles,Kristinaview,Croatia,SPRING10,4,120,480,48,432
+26814,Pure Market,6273,54,146,Clothing,2024-04-19,PayPal,2613 Thompson Club,Conradland,Palestinian Territory,SPRING10,3,132,396,40,356
+42155,Urban Goods,2613,51,188,Clothing,2024-04-08,Credit Card,176 Brandon Brook,Parkerport,Algeria,None,4,81,324,0,324
+65891,Essential Mart,6566,55,167,Clothing,2024-03-30,Credit Card,68038 Kristen Harbor,West Jon,Oman,None,1,185,185,0,185
+13893,Pure Market,3402,29,132,Clothing,2024-03-29,PayPal,544 Kyle Corners,East Bradton,Somalia,FALL15,2,173,346,52,294
+72638,Pure Market,7930,52,166,Electronics,2024-04-13,PayPal,00322 Hines Plaza Apt. 072,Christineport,Reunion,FALL15,4,179,716,107,609
+69440,Basic Depot,6359,28,184,Books,2024-04-16,PayPal,495 Julie Plaza Suite 654,North Bruce,Iran,FALL15,4,118,472,71,401
+64240,Essential Mart,6159,30,148,Books,2024-04-13,Credit Card,99066 Jones Ridges Apt. 731,West Monicachester,British Indian Ocean Territory (Chagos Archipelago),SUMMER20,4,97,388,78,310
+32353,Basic Depot,6153,55,144,Books,2024-04-21,PayPal,7020 Young Land Suite 060,New Brent,Slovenia,FALL15,3,161,483,72,411
+80053,Essential Mart,2561,58,171,Home & Garden,2024-04-20,Credit Card,0149 Byrd Club Suite 200,East Anthony,China,FALL15,4,191,764,115,649
+64980,Pure Market,7921,60,192,Electronics,2024-04-13,PayPal,3630 Melissa Dam,Hernandezland,Tanzania,SUMMER20,4,83,332,66,266
+29307,Basic Depot,5755,53,128,Clothing,2024-04-18,Credit Card,43507 Smith Meadows,South Rebeccaville,Syrian Arab Republic,SUMMER20,5,46,230,46,184
+61966,Urban Goods,8343,42,113,Clothing,2024-04-14,Credit Card,539 Daniel Lodge Suite 773,Coreymouth,Ecuador,SPRING10,5,185,925,92,833
+38087,Basic Depot,5578,46,127,Books,2024-03-29,PayPal,2915 Chang Drive Suite 393,Frenchburgh,Bouvet Island (Bouvetoya),SPRING10,4,34,136,14,122
+65637,Basic Depot,9223,28,136,Home & Garden,2024-04-09,Credit Card,5153 Debra Drive,Hoffmanshire,Kuwait,None,1,114,114,0,114
+89531,Urban Goods,4259,53,182,Electronics,2024-04-18,Credit Card,3200 Richards Lock Suite 638,Parksville,Turkey,None,3,172,516,0,516
+26798,Essential Mart,9126,57,169,Books,2024-04-24,PayPal,401 Forbes Alley,Hancockview,Guatemala,SUMMER20,2,182,364,73,291
+72701,Essential Mart,9376,53,114,Clothing,2024-04-18,Credit Card,33952 Aguilar Mall,New Caseyside,Panama,SPRING10,5,184,920,92,828
+19128,Essential Mart,5620,25,147,Books,2024-04-09,Credit Card,75825 Gary Ferry,West Joseph,Seychelles,SPRING10,4,25,100,10,90
+23673,Urban Goods,7480,32,144,Books,2024-04-22,Credit Card,79105 Smith Island,North Nicoleview,Ethiopia,None,5,20,100,0,100
+59150,Pure Market,3477,63,152,Home & Garden,2024-03-28,PayPal,62332 Jessica Parkway Apt. 386,South Elizabeth,Uzbekistan,SUMMER20,4,96,384,77,307
+68624,Urban Goods,1698,35,184,Clothing,2024-04-21,Credit Card,42724 Lisa Point Suite 640,Clarkbury,Antarctica (the territory South of 60 deg S),None,5,181,905,0,905
+95547,Basic Depot,6510,47,192,Books,2024-04-05,PayPal,66960 Geoffrey Circles,Port Erika,Niue,SPRING10,4,75,300,30,270
+76192,Urban Goods,5695,30,191,Books,2024-04-01,Credit Card,26449 Jeffrey Lane Suite 835,West Kellyside,Turkey,None,4,77,308,0,308
+26237,Pure Market,6339,51,142,Books,2024-04-06,Credit Card,241 Mary Shoal,Melissaland,Saint Vincent and the Grenadines,SPRING10,3,131,393,39,354
+39062,Essential Mart,2958,34,181,Electronics,2024-04-14,Credit Card,439 Brown Lodge,Jacobsville,Cape Verde,SUMMER20,3,21,63,13,50
+69805,Basic Depot,1117,51,109,Books,2024-04-15,Credit Card,509 William Glens Apt. 933,Lake Michael,Gibraltar,None,5,69,345,0,345
+56407,Basic Depot,9533,60,141,Electronics,2024-04-03,PayPal,269 Steven Manors,Lake Susanhaven,Portugal,SUMMER20,5,60,300,60,240
+52788,Essential Mart,5488,37,154,Home & Garden,2024-04-19,PayPal,25896 Taylor Rest Suite 440,Port Raymondtown,Cayman Islands,SUMMER20,5,111,555,111,444
+68258,Urban Goods,1178,57,181,Electronics,2024-04-08,Credit Card,465 Dylan Creek,Lake Ivan,Liberia,FALL15,2,173,346,52,294
+66692,Basic Depot,8104,45,101,Electronics,2024-04-20,Credit Card,7972 Jason Vista Apt. 918,New Josefurt,Korea,SPRING10,1,106,106,11,95
+37056,Pure Market,9569,31,115,Clothing,2024-04-24,PayPal,450 Stephanie Harbors Suite 954,East David,Burundi,SUMMER20,2,106,212,42,170
+74120,Pure Market,7203,56,107,Electronics,2024-04-14,Credit Card,29406 Young Way,Dyerfort,Argentina,SPRING10,3,146,438,44,394
+16383,Pure Market,8730,46,163,Books,2024-04-23,Credit Card,84328 Torres Lane Apt. 054,South Aaronville,Philippines,FALL15,2,111,222,33,189
+13348,Basic Depot,8909,62,138,Electronics,2024-04-16,Credit Card,519 Earl Ranch Apt. 213,Mitchellfurt,Bahamas,SPRING10,5,115,575,58,517
+93553,Basic Depot,8411,33,169,Electronics,2024-04-21,PayPal,7462 Brooks Hill,East Michaelport,Guernsey,FALL15,1,138,138,21,117
+54406,Basic Depot,6564,47,176,Clothing,2024-03-29,Credit Card,5137 David Cliff,Lake Valerie,Micronesia,SUMMER20,4,94,376,75,301
+20155,Basic Depot,2809,35,164,Electronics,2024-03-29,Credit Card,4097 Mills Cliffs,Cynthialand,Lebanon,None,5,37,185,0,185
+91656,Essential Mart,3827,23,103,Home & Garden,2024-04-01,PayPal,1030 Greene Way Apt. 674,Walshville,Mozambique,SUMMER20,3,152,456,91,365
+91774,Urban Goods,6491,43,120,Home & Garden,2024-04-11,Credit Card,8436 Armstrong Inlet,Walkerland,Saint Barthelemy,SPRING10,3,121,363,36,327
+96921,Urban Goods,3317,51,172,Books,2024-03-27,PayPal,56558 Ellis Ridges,North Amy,Canada,SUMMER20,2,155,310,62,248
+16034,Basic Depot,2317,23,143,Home & Garden,2024-03-29,PayPal,97299 Todd Turnpike Suite 450,Karenport,French Guiana,None,4,135,540,0,540
+52384,Basic Depot,8768,52,166,Clothing,2024-04-15,PayPal,4771 Mccann Bridge Suite 087,North Scott,Micronesia,FALL15,5,85,425,64,361
+91048,Basic Depot,8362,63,160,Books,2024-04-23,PayPal,32141 Romero Camp Suite 502,East Samantha,Switzerland,SPRING10,3,160,480,48,432
+68417,Pure Market,6817,32,150,Electronics,2024-03-29,Credit Card,039 Webb Centers,Jennifertown,Guinea-Bissau,None,3,188,564,0,564
+13785,Pure Market,3819,38,185,Electronics,2024-04-09,PayPal,997 Cory Bypass,East Dennisland,Mongolia,SUMMER20,2,62,124,25,99
+53485,Basic Depot,9609,34,127,Electronics,2024-04-16,Credit Card,56887 Gregory Heights,Davidland,French Polynesia,FALL15,5,76,380,57,323
+92335,Basic Depot,6568,28,125,Clothing,2024-04-17,Credit Card,662 Brooks Ridges,West Charlesburgh,Kyrgyz Republic,None,2,78,156,0,156
+76177,Pure Market,9248,60,102,Home & Garden,2024-03-31,PayPal,348 Jeffery Freeway,North Stacy,Philippines,SPRING10,5,155,775,78,697
+99830,Pure Market,9016,56,179,Clothing,2024-03-30,Credit Card,49445 Dyer Course,Craigmouth,Djibouti,SUMMER20,2,99,198,40,158
+55100,Urban Goods,6323,22,167,Clothing,2024-04-23,PayPal,00018 Price Plaza Apt. 487,East Davidberg,Russian Federation,FALL15,3,150,450,68,382
+39150,Basic Depot,9893,58,116,Clothing,2024-04-16,Credit Card,689 Jackson Glens,Lake Scott,Kiribati,SUMMER20,5,94,470,94,376
+65670,Essential Mart,5595,26,159,Books,2024-04-24,PayPal,3136 Jennifer Ports Apt. 735,North Erin,Andorra,SPRING10,1,156,156,16,140
+35374,Basic Depot,6628,42,146,Electronics,2024-03-31,Credit Card,460 Jordan Cliff,West Karenburgh,Puerto Rico,SUMMER20,1,164,164,33,131
+78373,Basic Depot,6001,50,166,Electronics,2024-04-11,Credit Card,50061 Holly Divide Apt. 773,South Justin,Romania,FALL15,2,62,124,19,105
+78811,Essential Mart,9046,41,130,Clothing,2024-04-12,PayPal,7431 Garcia Rapid Suite 836,New Russellland,Reunion,None,3,166,498,0,498
+40814,Essential Mart,4438,28,100,Books,2024-04-23,Credit Card,672 Courtney Alley Suite 212,Brittanyhaven,United States of America,None,5,28,140,0,140
+63695,Basic Depot,3304,45,196,Electronics,2024-03-28,PayPal,2055 Wise Mission Apt. 661,North Amandamouth,Cook Islands,SUMMER20,5,52,260,52,208
+75276,Basic Depot,5805,53,197,Home & Garden,2024-04-21,PayPal,35058 Patterson Wells Suite 874,Greenfurt,Gambia,None,1,119,119,0,119
+10311,Urban Goods,1599,38,146,Electronics,2024-04-09,PayPal,20883 Edwards Skyway Suite 400,West Derekchester,India,None,3,164,492,0,492
+59094,Essential Mart,2353,53,173,Clothing,2024-04-22,PayPal,4018 Charles Fork Suite 662,Jennifershire,Indonesia,SUMMER20,2,24,48,10,38
+81071,Basic Depot,2545,56,119,Home & Garden,2024-04-17,PayPal,3418 Johnson Greens,Lake Jeremy,Suriname,None,3,119,357,0,357
+60973,Essential Mart,4927,52,140,Electronics,2024-03-29,Credit Card,00306 Lynch Parkway,Christinaview,Morocco,SPRING10,2,143,286,29,257
+35498,Pure Market,3168,55,124,Home & Garden,2024-04-03,Credit Card,223 Cynthia Mall,Lopezview,Burundi,SPRING10,3,82,246,25,221
+21820,Pure Market,4951,33,166,Clothing,2024-04-09,Credit Card,601 Robert Mountains Apt. 905,West Kathleenberg,Sweden,None,3,81,243,0,243
+50740,Urban Goods,7198,45,185,Home & Garden,2024-04-07,PayPal,72542 Smith Camp,Benitezbury,El Salvador,SPRING10,4,186,744,74,670
+95257,Pure Market,4619,39,170,Books,2024-04-10,PayPal,1719 Donald Way Apt. 484,Lake Johnland,Mongolia,SUMMER20,5,20,100,20,80
+62962,Essential Mart,7041,52,115,Books,2024-04-20,Credit Card,182 Levi Points,Jacobstad,Kiribati,SPRING10,1,47,47,5,42
+75116,Basic Depot,1456,51,198,Home & Garden,2024-04-07,PayPal,32202 Parsons Mount Apt. 334,Conniemouth,Bermuda,None,2,98,196,0,196
+68137,Pure Market,6829,39,139,Home & Garden,2024-04-02,Credit Card,9335 Kathleen Hill,Lawsonfort,Puerto Rico,FALL15,3,118,354,53,301
+76300,Urban Goods,7970,51,179,Books,2024-04-02,PayPal,0337 Brandon Hollow Suite 735,Christopherfurt,Montenegro,SPRING10,5,108,540,54,486
+15904,Pure Market,7441,39,108,Clothing,2024-04-24,PayPal,311 Nicole Roads Apt. 670,Williamfort,British Indian Ocean Territory (Chagos Archipelago),SPRING10,4,197,788,79,709
+56494,Urban Goods,5080,32,195,Clothing,2024-04-06,PayPal,98026 Cardenas Groves,East Laurenland,Fiji,None,1,62,62,0,62
+58639,Basic Depot,7188,31,128,Home & Garden,2024-04-05,Credit Card,311 Bailey Gateway Suite 207,Davisburgh,French Guiana,SPRING10,1,70,70,7,63
+52371,Essential Mart,7587,35,127,Clothing,2024-04-17,PayPal,87998 Knight Roads Apt. 950,New Rogerton,Zambia,SUMMER20,5,52,260,52,208
+94924,Urban Goods,3856,41,181,Books,2024-04-04,PayPal,805 Butler Greens,East Cynthia,Isle of Man,FALL15,3,197,591,89,502
+62140,Urban Goods,7551,28,110,Clothing,2024-04-12,Credit Card,9743 Brown Via,East Justin,Western Sahara,SPRING10,1,23,23,2,21
+11725,Basic Depot,9230,46,105,Books,2024-04-04,Credit Card,36583 Smith Radial Apt. 210,Dodsonside,Liechtenstein,None,2,128,256,0,256
+62102,Urban Goods,6030,46,183,Home & Garden,2024-04-23,PayPal,1027 Ashley Points Apt. 885,New John,Grenada,SUMMER20,2,180,360,72,288
+73864,Essential Mart,9872,34,120,Electronics,2024-04-13,Credit Card,736 Kelsey Fall Suite 538,Yolandaborough,Brazil,None,5,56,280,0,280
+84046,Essential Mart,1408,56,180,Home & Garden,2024-03-29,Credit Card,444 Leonard Heights,Lake Josephborough,Paraguay,None,5,82,410,0,410
+90262,Basic Depot,8478,26,107,Electronics,2024-04-17,Credit Card,4607 Michelle Field Apt. 299,Taylorfurt,Egypt,FALL15,4,118,472,71,401
+33272,Urban Goods,3393,45,122,Home & Garden,2024-04-22,Credit Card,22900 Lisa Fork,Sonyaborough,United Kingdom,SPRING10,1,96,96,10,86
+74875,Basic Depot,5065,37,179,Home & Garden,2024-04-09,Credit Card,7926 Guerrero Lake Apt. 097,Matthewland,Sao Tome and Principe,FALL15,3,87,261,39,222
+69435,Urban Goods,1174,50,104,Clothing,2024-04-22,PayPal,981 Carroll Green Suite 577,Justinside,Comoros,FALL15,2,59,118,18,100
+41384,Basic Depot,3855,29,175,Books,2024-04-06,PayPal,673 Hampton Path Apt. 503,Chenport,Ghana,FALL15,1,192,192,29,163
+33882,Basic Depot,8479,31,186,Electronics,2024-04-05,Credit Card,865 Robert Turnpike,West Susanshire,China,None,1,86,86,0,86
+43548,Urban Goods,2309,32,134,Clothing,2024-04-24,PayPal,793 Taylor Dam Apt. 491,Petersonberg,Guam,SUMMER20,1,65,65,13,52
+88143,Pure Market,5772,52,179,Electronics,2024-04-02,Credit Card,1709 Trevino Track,Patriciabury,Guinea,SPRING10,2,184,368,37,331
+41302,Basic Depot,4804,34,196,Clothing,2024-04-23,Credit Card,57379 Hannah Trafficway,East Karen,Brunei Darussalam,FALL15,4,192,768,115,653
+95570,Essential Mart,6029,31,199,Books,2024-03-29,Credit Card,612 Hill Parkways,Port Williamport,Seychelles,None,3,90,270,0,270
+21865,Basic Depot,2085,37,125,Books,2024-04-17,Credit Card,5803 Mcguire Stream,West Brianbury,Kiribati,None,1,45,45,0,45
+95085,Essential Mart,4566,48,196,Home & Garden,2024-03-27,Credit Card,92042 Laura Estates,North Jesseberg,Guam,FALL15,5,129,645,97,548
+53768,Urban Goods,2963,59,171,Books,2024-04-12,PayPal,5440 Miller View,Port Sarah,Bahrain,FALL15,1,107,107,16,91
+40333,Essential Mart,7210,35,180,Books,2024-04-04,PayPal,2588 Williams Port,East Sharon,Belarus,FALL15,2,22,44,7,37
+41667,Pure Market,5299,35,167,Books,2024-04-13,Credit Card,938 David Crest Suite 432,South Michaelhaven,Israel,None,1,173,173,0,173
+57166,Essential Mart,3455,37,182,Clothing,2024-04-04,PayPal,5020 Carr Haven Suite 537,Henryborough,Sudan,FALL15,2,190,380,57,323
+39626,Urban Goods,2764,25,138,Clothing,2024-04-11,PayPal,482 Megan Plain,Andersenmouth,Senegal,SUMMER20,3,169,507,101,406
+85173,Pure Market,3355,39,149,Clothing,2024-04-04,PayPal,08987 Kenneth Islands,North Christina,Morocco,SUMMER20,2,32,64,13,51
+39840,Essential Mart,4869,59,120,Books,2024-03-30,PayPal,8267 Jeremy Inlet Apt. 114,New Damon,Lao People's Democratic Republic,None,1,61,61,0,61
+53602,Urban Goods,6632,37,117,Home & Garden,2024-03-31,Credit Card,9372 Theresa Summit Apt. 684,Hardytown,Turkmenistan,None,5,127,635,0,635
+47485,Pure Market,1777,47,193,Clothing,2024-04-13,Credit Card,2263 Roberts Wells Suite 536,New Johnberg,Hungary,SUMMER20,4,151,604,121,483
+95815,Pure Market,9282,62,176,Clothing,2024-03-30,Credit Card,6939 Jennifer Path,East Saramouth,Korea,None,4,180,720,0,720
+45982,Essential Mart,9499,51,105,Books,2024-04-21,Credit Card,1633 Kelly Tunnel Suite 844,Warrenchester,Guernsey,SPRING10,5,129,645,64,581
+15332,Pure Market,3128,28,116,Books,2024-04-20,Credit Card,2054 Russell Avenue,Lake Carlos,Reunion,SPRING10,5,109,545,54,491
+21693,Urban Goods,2326,25,143,Electronics,2024-04-01,Credit Card,744 Emily Circle,Lauramouth,Slovenia,None,3,49,147,0,147
+67087,Basic Depot,8861,29,173,Electronics,2024-04-23,PayPal,836 Derek Fields Suite 533,East Ryanberg,Seychelles,None,4,158,632,0,632
+47300,Pure Market,1265,60,128,Clothing,2024-04-16,Credit Card,56466 Harris Manor Apt. 765,Lake Sarahfurt,Swaziland,FALL15,3,112,336,50,286
+46167,Basic Depot,8178,30,179,Electronics,2024-04-11,PayPal,0910 Amanda Hollow Apt. 985,South Edwardmouth,New Caledonia,SPRING10,3,152,456,46,410
+33340,Basic Depot,9142,26,175,Books,2024-04-18,PayPal,64475 Allison Alley,South Tonyberg,Ethiopia,SUMMER20,3,140,420,84,336
+79833,Urban Goods,2118,53,101,Clothing,2024-04-15,PayPal,7700 Karina Squares Suite 248,East Richardton,Hungary,SPRING10,5,172,860,86,774
+45734,Urban Goods,4549,56,199,Electronics,2024-03-29,PayPal,8085 Megan Streets,Garciabury,Nicaragua,None,2,104,208,0,208
+32834,Essential Mart,4241,60,149,Clothing,2024-03-29,Credit Card,23527 Richards Village,South Kevin,Kazakhstan,FALL15,2,62,124,19,105
+10563,Urban Goods,7571,33,137,Clothing,2024-04-14,PayPal,538 Lawrence Inlet,Virginialand,Slovenia,FALL15,4,114,456,68,388
+43325,Urban Goods,2708,62,174,Clothing,2024-04-06,Credit Card,870 William View Suite 458,Sandratown,Niger,SPRING10,1,69,69,7,62
+69333,Pure Market,1177,28,191,Clothing,2024-04-24,PayPal,805 Tara Highway,East Troyhaven,Moldova,SPRING10,3,36,108,11,97
+88831,Essential Mart,9273,60,185,Books,2024-04-25,Credit Card,708 Francisco Path Apt. 286,New Amanda,Chile,FALL15,3,45,135,20,115
+66165,Urban Goods,8601,56,148,Books,2024-04-10,Credit Card,1161 Odonnell Corners,Michaelville,Kuwait,SPRING10,5,45,225,22,203
+19790,Urban Goods,8819,59,130,Home & Garden,2024-04-22,PayPal,745 Melinda Streets,Lisabury,Mauritius,None,3,31,93,0,93
+30182,Essential Mart,9743,64,160,Home & Garden,2024-03-28,PayPal,7363 Audrey Course Suite 519,West Jenniferview,Syrian Arab Republic,FALL15,4,38,152,23,129
+70119,Essential Mart,4130,44,133,Electronics,2024-04-08,PayPal,6362 Allen Light Suite 971,Jacobburgh,Samoa,SPRING10,3,193,579,58,521
+74501,Basic Depot,2865,43,134,Books,2024-04-11,PayPal,22432 Alexander Locks,Kevinborough,Mauritania,FALL15,2,102,204,31,173
+97981,Pure Market,3557,26,170,Home & Garden,2024-04-14,PayPal,804 Jeffrey Extension Apt. 154,Mirandaland,Cape Verde,None,2,99,198,0,198
+92118,Pure Market,1707,38,193,Home & Garden,2024-04-09,PayPal,106 Karen Port,Davidhaven,Australia,SUMMER20,5,122,610,122,488
+71336,Pure Market,2860,57,139,Electronics,2024-04-03,Credit Card,677 Mcintosh Island Apt. 976,Port Andrewton,Peru,SUMMER20,4,61,244,49,195
+88105,Pure Market,1982,55,117,Books,2024-04-19,Credit Card,8454 Justin Rue,North Cynthiaview,Gibraltar,SPRING10,1,104,104,10,94
+32253,Basic Depot,9429,54,152,Electronics,2024-04-20,PayPal,731 Carol Heights Suite 865,New Ronaldmouth,Sao Tome and Principe,FALL15,3,175,525,79,446
+97438,Essential Mart,6009,58,133,Home & Garden,2024-04-16,PayPal,113 Castillo Flat Suite 137,Gonzalesport,Angola,None,4,81,324,0,324
+91262,Pure Market,1184,43,157,Electronics,2024-04-06,Credit Card,6752 Miller Park Suite 018,North Amandafurt,Zimbabwe,FALL15,3,35,105,16,89
+70960,Basic Depot,6883,57,173,Home & Garden,2024-04-05,PayPal,6423 Candice Mountain,Maddoxtown,Peru,None,1,80,80,0,80
+64265,Urban Goods,3429,62,190,Books,2024-03-27,Credit Card,626 Delacruz Corners,Lake Colleen,Sierra Leone,None,2,151,302,0,302
+82152,Pure Market,7639,41,168,Books,2024-04-22,Credit Card,43926 Hodge Shore,South Eric,Switzerland,SUMMER20,4,25,100,20,80
+13266,Basic Depot,3753,43,101,Clothing,2024-03-31,Credit Card,141 Bradley Hollow Suite 334,Lake Debra,Cote d'Ivoire,None,3,159,477,0,477
+65772,Urban Goods,2758,47,118,Clothing,2024-03-31,PayPal,79855 Durham Throughway Apt. 471,New Scott,Liechtenstein,SUMMER20,2,121,242,48,194
+78729,Essential Mart,7343,41,186,Clothing,2024-04-11,Credit Card,85895 Thomas Crest,Phillipsmouth,Taiwan,SUMMER20,3,130,390,78,312
+20275,Essential Mart,1956,26,119,Electronics,2024-04-05,PayPal,0889 Lee Bridge,Maymouth,Bahamas,SPRING10,2,91,182,18,164
+55832,Basic Depot,1629,27,138,Electronics,2024-03-30,PayPal,98634 Amanda Mission,Carlosstad,Cook Islands,None,3,121,363,0,363
+93576,Essential Mart,7760,23,165,Home & Garden,2024-04-13,PayPal,139 Leonard Union,Maryhaven,Netherlands,SPRING10,4,35,140,14,126
+17925,Essential Mart,2976,41,122,Clothing,2024-04-07,PayPal,67911 Paul Harbors Suite 436,Floydport,Eritrea,SPRING10,3,148,444,44,400
+52439,Basic Depot,5251,33,197,Clothing,2024-04-05,PayPal,30427 Lowery Throughway Apt. 615,Rileyhaven,United States Minor Outlying Islands,SUMMER20,4,97,388,78,310
+46895,Urban Goods,8971,25,154,Clothing,2024-04-25,Credit Card,91880 Richard Key,Port Ethan,Saint Vincent and the Grenadines,SUMMER20,5,181,905,181,724
+61103,Basic Depot,5991,26,195,Home & Garden,2024-04-24,PayPal,90597 Velasquez Dale Apt. 820,Michaelton,Brunei Darussalam,FALL15,2,125,250,38,212
+69364,Urban Goods,8051,62,193,Home & Garden,2024-04-09,Credit Card,79345 Amy Path Suite 733,Matthewmouth,French Guiana,None,2,63,126,0,126
+94282,Essential Mart,7172,39,140,Electronics,2024-04-08,PayPal,1952 Lori Lights Apt. 228,Johnsonview,San Marino,FALL15,5,153,765,115,650
+58682,Pure Market,3648,58,106,Home & Garden,2024-03-29,Credit Card,6584 Alicia Fork,Brownville,Cameroon,SUMMER20,3,60,180,36,144
+12303,Urban Goods,8836,43,162,Clothing,2024-03-31,PayPal,99033 Mora Parks Suite 167,Millerbury,Holy See (Vatican City State),None,2,71,142,0,142
+15259,Basic Depot,9130,65,151,Books,2024-04-20,Credit Card,2959 Keith Corners,Sarafort,Niger,None,1,48,48,0,48
+13669,Basic Depot,6696,23,107,Home & Garden,2024-04-22,Credit Card,62384 Harris Radial,East Ian,Malaysia,SUMMER20,3,192,576,115,461
+75045,Pure Market,8336,55,160,Books,2024-04-10,PayPal,70112 Carpenter Roads,Lisashire,Honduras,None,4,76,304,0,304
+68212,Basic Depot,6624,42,111,Books,2024-04-04,Credit Card,4176 Edwards Branch,Robertside,Haiti,SPRING10,4,152,608,61,547
+10701,Urban Goods,9808,52,159,Home & Garden,2024-03-27,Credit Card,40483 Manuel Forks Suite 642,Port Helenbury,Guam,SPRING10,3,198,594,59,535
+55743,Urban Goods,3417,22,151,Home & Garden,2024-04-18,PayPal,799 Terry Lock Suite 557,West Josephmouth,Namibia,None,4,72,288,0,288
+19996,Basic Depot,8242,39,157,Books,2024-04-18,Credit Card,07124 Patrick Summit Suite 710,Rickeystad,Belarus,SPRING10,3,188,564,56,508
+59284,Pure Market,6477,47,143,Home & Garden,2024-04-25,Credit Card,531 Lowe Route Apt. 230,Martinezhaven,Israel,SPRING10,5,107,535,54,481
+87543,Basic Depot,9735,51,121,Clothing,2024-04-06,PayPal,85347 James Fields,North Kimberlyfort,Marshall Islands,SUMMER20,4,89,356,71,285
+54450,Urban Goods,3301,63,197,Books,2024-04-12,PayPal,089 Katrina Walks Apt. 210,Lake Desiree,Israel,None,5,161,805,0,805
+12999,Pure Market,1891,31,129,Home & Garden,2024-04-14,Credit Card,7775 Stone Circle,Wrightville,Jamaica,None,3,109,327,0,327
+60819,Basic Depot,8226,60,190,Electronics,2024-04-02,Credit Card,83168 Allen Causeway Suite 457,East Craigmouth,Chad,None,4,133,532,0,532
+13838,Essential Mart,1137,40,144,Books,2024-04-10,PayPal,320 Diane Parkway,Christinaville,Austria,FALL15,5,45,225,34,191
+86843,Urban Goods,5894,58,185,Electronics,2024-04-10,Credit Card,11685 Kendra Corners Suite 680,New Timothy,Isle of Man,None,2,135,270,0,270
+36172,Pure Market,9168,29,146,Home & Garden,2024-04-20,PayPal,6328 Daniel Prairie,Stewartview,Nicaragua,SPRING10,3,80,240,24,216
+60295,Urban Goods,9202,34,109,Books,2024-04-08,Credit Card,7734 Martinez Village,Snowborough,Isle of Man,SUMMER20,4,139,556,111,445
+41553,Basic Depot,3484,48,152,Books,2024-04-17,PayPal,11098 Victoria Trail Apt. 862,Davidmouth,Jamaica,SUMMER20,4,119,476,95,381
+64550,Pure Market,5117,35,119,Clothing,2024-04-02,PayPal,526 Matthew Brooks,Lake Tiffany,Bolivia,FALL15,3,147,441,66,375
+32721,Urban Goods,4492,40,153,Electronics,2024-04-18,Credit Card,13773 Alvarado Mountain Suite 606,Megantown,Tanzania,SUMMER20,1,108,108,22,86
+60016,Basic Depot,8501,56,174,Books,2024-04-24,PayPal,898 Daniel Views Suite 948,Williamland,Switzerland,None,5,69,345,0,345
+21893,Urban Goods,8235,44,109,Books,2024-04-14,Credit Card,15906 Joseph Streets Suite 729,Aaronchester,Serbia,SUMMER20,4,75,300,60,240
+34843,Pure Market,3120,22,189,Electronics,2024-04-24,PayPal,7733 Moyer Radial Apt. 451,South Kariville,Finland,SUMMER20,5,37,185,37,148
+15325,Basic Depot,5896,58,165,Books,2024-04-08,Credit Card,29371 Cox Springs,North Megan,El Salvador,None,3,149,447,0,447
+16946,Pure Market,6059,59,176,Books,2024-03-27,PayPal,93430 Susan Locks Apt. 853,South Michaelton,Norway,SPRING10,5,156,780,78,702
+39623,Pure Market,6154,29,193,Home & Garden,2024-04-09,Credit Card,277 Cindy Radial Suite 370,South Kerry,Egypt,SUMMER20,5,155,775,155,620
+21349,Pure Market,2811,53,114,Clothing,2024-03-27,Credit Card,0687 Vincent Causeway Suite 198,Stevensborough,Gibraltar,None,5,120,600,0,600
+23707,Basic Depot,1240,55,111,Electronics,2024-04-08,Credit Card,842 Gomez Inlet Apt. 689,Jenkinsmouth,Pakistan,FALL15,1,48,48,7,41
+25218,Basic Depot,2191,22,166,Clothing,2024-04-03,Credit Card,6103 Conway Trail Apt. 659,Lake Laura,Lesotho,None,2,103,206,0,206
+98315,Basic Depot,4566,43,160,Clothing,2024-04-03,PayPal,29508 Jones Isle Apt. 527,Port Samanthamouth,Jamaica,SPRING10,4,114,456,46,410
+24467,Pure Market,8481,23,169,Electronics,2024-04-03,Credit Card,33474 Butler Summit,Port Tina,Tuvalu,None,2,42,84,0,84
+96377,Pure Market,1886,31,168,Clothing,2024-04-14,Credit Card,582 Steven Lodge,Stevenbury,Zambia,SUMMER20,5,32,160,32,128
+77757,Basic Depot,4755,37,137,Books,2024-04-01,PayPal,90225 Hansen Terrace,Thomasview,Belgium,SPRING10,5,52,260,26,234
+47295,Basic Depot,5525,39,185,Electronics,2024-03-29,PayPal,1766 Jamie Gardens,Brittanyville,Ukraine,SPRING10,3,120,360,36,324
+28256,Pure Market,5674,43,178,Books,2024-04-05,Credit Card,69385 Linda Prairie,Linfort,Japan,SUMMER20,3,54,162,32,130
+66825,Pure Market,4069,58,190,Clothing,2024-04-22,PayPal,450 Beverly Wall Suite 565,New Teresa,Belize,SUMMER20,1,79,79,16,63
+90633,Essential Mart,5680,59,137,Books,2024-04-25,PayPal,1567 Gillespie Crescent,North Lindaport,Azerbaijan,SPRING10,2,186,372,37,335
+69908,Basic Depot,2451,51,107,Clothing,2024-04-15,PayPal,8917 Camacho Viaduct Apt. 769,Brittanyview,Guam,None,5,123,615,0,615
+97912,Pure Market,4704,37,141,Electronics,2024-04-13,Credit Card,704 Jackson Point,Lake Sarahton,Timor-Leste,SPRING10,2,183,366,37,329
+53867,Urban Goods,8313,22,129,Clothing,2024-04-07,PayPal,716 Gregory Court,New Theresa,Slovakia (Slovak Republic),FALL15,2,120,240,36,204
+76507,Basic Depot,2743,53,166,Clothing,2024-04-06,PayPal,760 Patel Land,Taylorside,Saint Vincent and the Grenadines,FALL15,2,30,60,9,51
+95214,Essential Mart,8796,27,174,Books,2024-04-03,Credit Card,1799 Robin Lock,Camachoview,Spain,FALL15,5,130,650,98,552
+67130,Essential Mart,8155,60,130,Books,2024-04-18,PayPal,67263 Holland Roads Suite 750,North Hannahville,Estonia,SPRING10,1,62,62,6,56
+81867,Essential Mart,4627,53,128,Books,2024-04-04,Credit Card,8752 Ruth Port Suite 297,Port Sylviaborough,Chad,None,1,83,83,0,83
+69591,Pure Market,4104,24,152,Electronics,2024-04-03,PayPal,0838 Powers Center,South Donna,Bosnia and Herzegovina,SUMMER20,4,171,684,137,547
+93601,Pure Market,5601,39,103,Books,2024-04-18,PayPal,58888 Francis Brooks,New Deborah,Bosnia and Herzegovina,SPRING10,3,163,489,49,440
+73533,Essential Mart,8558,25,176,Clothing,2024-04-15,PayPal,4963 James Cove Suite 993,Port Rachaelmouth,Reunion,None,2,39,78,0,78
+95314,Essential Mart,9140,52,129,Clothing,2024-03-29,Credit Card,5357 Kiara Cliffs,Anthonyberg,Eritrea,SPRING10,2,43,86,9,77
+82024,Pure Market,4412,53,162,Clothing,2024-04-18,PayPal,310 James Vista Suite 972,Lake Tiffanyshire,Panama,None,2,104,208,0,208
+80978,Basic Depot,6615,41,162,Clothing,2024-03-28,Credit Card,820 Thompson Knoll,Jacksonhaven,Tuvalu,SPRING10,4,79,316,32,284
+28407,Urban Goods,7263,61,150,Books,2024-04-09,PayPal,2204 Haley Vista Apt. 327,Lake Matthewville,Colombia,None,3,133,399,0,399
+31393,Essential Mart,9168,42,166,Home & Garden,2024-04-25,Credit Card,43788 Ingram Loaf,Cruzborough,Niue,FALL15,3,92,276,41,235
+34563,Urban Goods,5509,50,169,Clothing,2024-04-07,PayPal,945 Henderson Shore Suite 970,Port Thomas,Congo,SUMMER20,3,74,222,44,178
+23642,Pure Market,9117,47,104,Clothing,2024-04-11,Credit Card,27306 Donald Crossing Apt. 320,Brownview,San Marino,FALL15,4,131,524,79,445
+87146,Pure Market,5911,33,110,Clothing,2024-04-03,PayPal,445 William Oval,Longside,Taiwan,SPRING10,3,195,585,58,527
+76588,Essential Mart,4959,39,101,Electronics,2024-04-16,PayPal,010 Sarah Rue,Lake Kathryn,Algeria,FALL15,3,173,519,78,441
+31720,Pure Market,2868,30,159,Clothing,2024-04-18,Credit Card,16043 George Plain Apt. 648,Adammouth,Antarctica (the territory South of 60 deg S),SUMMER20,5,194,970,194,776
+90401,Urban Goods,3422,31,112,Home & Garden,2024-04-17,Credit Card,824 Stevens Trail,West Sheilachester,Sudan,SUMMER20,3,55,165,33,132
+70420,Basic Depot,2868,28,174,Books,2024-04-13,PayPal,7900 Sheri Bridge Apt. 354,Dyerhaven,Northern Mariana Islands,SPRING10,2,47,94,9,85
+33304,Urban Goods,8504,37,116,Electronics,2024-04-01,Credit Card,82827 Carl Meadows Suite 292,North Cheryl,United States Virgin Islands,SUMMER20,3,105,315,63,252
+18546,Urban Goods,8295,40,134,Books,2024-03-28,PayPal,4629 Thornton Forge Suite 414,West Alison,Latvia,SPRING10,4,145,580,58,522
+34146,Essential Mart,8656,59,121,Clothing,2024-04-05,PayPal,154 Douglas Cliff Suite 618,Lisachester,Saint Helena,None,4,97,388,0,388
+38684,Urban Goods,2372,22,185,Books,2024-04-12,PayPal,764 Lauren Lodge Suite 950,East Philipborough,Cayman Islands,FALL15,5,154,770,116,654
+96628,Pure Market,4536,49,175,Clothing,2024-04-19,Credit Card,789 Roberts Extension Apt. 185,Port Derekbury,Singapore,SPRING10,4,197,788,79,709
+29029,Basic Depot,5819,41,100,Electronics,2024-04-04,PayPal,62360 Thomas Gateway Suite 151,Austinburgh,India,None,1,82,82,0,82
+38542,Basic Depot,3443,32,156,Books,2024-04-06,Credit Card,0341 Julie Union,New Samuel,Cuba,SUMMER20,3,169,507,101,406
+77638,Pure Market,4592,56,159,Home & Garden,2024-04-12,Credit Card,06538 Obrien Lakes,Kirbyside,Haiti,SPRING10,5,38,190,19,171
+93238,Basic Depot,9063,29,160,Electronics,2024-04-11,Credit Card,8851 Tabitha Ridge,Randallborough,Ukraine,SPRING10,4,148,592,59,533
+39229,Pure Market,5095,51,111,Electronics,2024-04-05,Credit Card,92109 Smith Route,Port Michael,South Georgia and the South Sandwich Islands,FALL15,1,31,31,5,26
+70014,Pure Market,8985,44,100,Clothing,2024-04-22,Credit Card,5481 Holland Shoals Apt. 768,Brandonfort,Marshall Islands,SPRING10,5,39,195,20,175
+26697,Basic Depot,7490,56,102,Clothing,2024-04-11,Credit Card,72567 Kevin Place Suite 493,Whitestad,Moldova,FALL15,1,155,155,23,132
+86911,Urban Goods,5214,63,117,Books,2024-04-07,Credit Card,21686 Nicholas Crossing,Byrdmouth,Falkland Islands (Malvinas),FALL15,5,98,490,74,416
+51417,Urban Goods,8842,64,105,Electronics,2024-04-19,Credit Card,2238 Lawrence Alley,Andersonview,United States of America,FALL15,1,32,32,5,27
+66476,Pure Market,7414,31,104,Books,2024-04-19,Credit Card,7933 Jeffrey Turnpike,South Jessicamouth,Lebanon,SUMMER20,5,85,425,85,340
+27184,Essential Mart,7140,46,125,Electronics,2024-04-01,Credit Card,3232 Melissa Course,Tylerfort,Vietnam,SPRING10,5,23,115,12,103
+80047,Pure Market,3923,40,130,Books,2024-03-29,PayPal,03395 Michael Light Suite 395,Oconnorburgh,Bangladesh,FALL15,5,27,135,20,115
+96298,Essential Mart,7166,23,192,Clothing,2024-04-04,Credit Card,333 Kimberly Spring,Jordanshire,Malta,SPRING10,5,160,800,80,720
+93450,Essential Mart,3744,55,101,Electronics,2024-04-18,PayPal,410 Murphy Island Apt. 832,Lake Mary,Finland,FALL15,4,160,640,96,544
+89054,Basic Depot,9063,55,106,Home & Garden,2024-04-08,Credit Card,166 Goodwin Fort Apt. 374,Stevenburgh,Nepal,SPRING10,1,195,195,20,175
+69020,Pure Market,4851,33,155,Electronics,2024-03-29,PayPal,730 Stacey Spring Suite 641,East Kaitlinport,Ethiopia,SUMMER20,4,89,356,71,285
+58405,Pure Market,5152,65,107,Books,2024-03-27,PayPal,587 Daniel Vista,North Michael,Netherlands,SPRING10,1,167,167,17,150
+26978,Basic Depot,2844,62,150,Home & Garden,2024-04-24,PayPal,33498 Stephen Vista Suite 266,East Bridget,Romania,SPRING10,1,94,94,9,85
+56417,Pure Market,1992,24,116,Home & Garden,2024-04-07,PayPal,84201 Steven Street Suite 726,Ericside,British Virgin Islands,SUMMER20,5,67,335,67,268
+63946,Urban Goods,6072,49,109,Electronics,2024-04-20,PayPal,016 Daniel Villages Suite 940,West Vanessatown,Somalia,SUMMER20,3,103,309,62,247
+60401,Essential Mart,6069,56,166,Electronics,2024-04-01,Credit Card,3052 Stewart Cove,West Matthewmouth,Sierra Leone,SPRING10,4,187,748,75,673
+75251,Essential Mart,6930,27,163,Electronics,2024-03-28,PayPal,11196 May Knoll,Cabreraport,Burundi,SUMMER20,5,73,365,73,292
+23152,Basic Depot,1040,35,190,Home & Garden,2024-04-16,PayPal,7385 Tammy Pass Apt. 828,West Kevinport,American Samoa,SUMMER20,2,118,236,47,189
+94342,Basic Depot,6085,62,187,Clothing,2024-04-23,Credit Card,4596 James Rapid,Christopherburgh,Wallis and Futuna,SUMMER20,5,67,335,67,268
+18764,Urban Goods,1512,30,139,Clothing,2024-04-15,PayPal,6816 Brown Square Apt. 545,Kennedyville,Ireland,None,5,35,175,0,175
+10256,Basic Depot,6407,25,108,Clothing,2024-04-23,Credit Card,457 Laura Station,Aliciaville,Monaco,None,3,131,393,0,393
+95322,Basic Depot,2421,38,190,Clothing,2024-04-02,Credit Card,07708 Melissa Springs,Lake Amberborough,Japan,SUMMER20,3,64,192,38,154
+76944,Urban Goods,8232,23,150,Clothing,2024-04-12,Credit Card,177 Smith Center,New Danastad,Malta,SPRING10,1,150,150,15,135
+36675,Pure Market,4650,23,139,Electronics,2024-04-04,PayPal,516 Victor Motorway Suite 882,Josephville,Chad,FALL15,2,72,144,22,122
+79964,Essential Mart,9207,58,194,Electronics,2024-04-05,Credit Card,4303 Williamson Port,New Sean,Latvia,SPRING10,5,125,625,62,563
+20608,Pure Market,5386,57,151,Electronics,2024-04-18,PayPal,002 Laurie Tunnel,Georgefort,Nepal,None,3,97,291,0,291
+90673,Pure Market,2749,52,193,Clothing,2024-04-19,PayPal,6359 Matthew Roads,Sarachester,El Salvador,None,5,156,780,0,780
+21744,Urban Goods,5799,49,162,Electronics,2024-04-21,PayPal,47600 Randy Drive Suite 732,Millsfurt,Croatia,SPRING10,2,145,290,29,261
+28686,Pure Market,5285,54,142,Clothing,2024-04-17,Credit Card,535 Xavier Rapids,Robertsonborough,British Virgin Islands,None,1,61,61,0,61
+49893,Pure Market,3462,28,175,Books,2024-04-01,PayPal,1581 Maria Unions,North Sarah,Comoros,SPRING10,3,38,114,11,103
+67977,Pure Market,8649,56,117,Home & Garden,2024-04-09,PayPal,192 Sarah Keys Suite 198,West Jonathan,Angola,SUMMER20,5,121,605,121,484
+82502,Urban Goods,4978,43,136,Home & Garden,2024-03-31,Credit Card,1242 Gibbs Mountain Suite 172,North Jennifer,Korea,SPRING10,2,70,140,14,126
+35580,Basic Depot,6988,58,125,Books,2024-04-21,PayPal,8975 Williams Stravenue Suite 018,Lake Lauren,British Indian Ocean Territory (Chagos Archipelago),None,5,107,535,0,535
+34810,Pure Market,3342,52,100,Clothing,2024-03-28,Credit Card,7714 Welch Island,South Codyview,Lithuania,SPRING10,1,196,196,20,176
+30693,Essential Mart,1079,35,126,Electronics,2024-04-20,Credit Card,036 Ernest Cape Suite 381,Lake Megan,Guernsey,None,1,191,191,0,191
+59000,Basic Depot,9312,62,142,Home & Garden,2024-04-04,Credit Card,0517 Hall Tunnel,Port Anthonymouth,Ethiopia,SUMMER20,3,36,108,22,86
+28149,Basic Depot,3197,43,197,Electronics,2024-03-28,Credit Card,150 Charlotte Vista Apt. 047,New Jeremy,South Georgia and the South Sandwich Islands,None,3,113,339,0,339
+85585,Basic Depot,1174,46,112,Electronics,2024-04-20,PayPal,17881 Scott Roads Apt. 148,South Stephenchester,Ecuador,SUMMER20,5,113,565,113,452
+29444,Essential Mart,4572,51,185,Home & Garden,2024-04-12,PayPal,9955 Nicholas Way,Millerfort,Guadeloupe,FALL15,3,139,417,63,354
+37376,Pure Market,3007,48,168,Electronics,2024-03-27,Credit Card,0940 Robinson Extensions,Janetmouth,Algeria,FALL15,2,133,266,40,226
+73865,Pure Market,5275,58,141,Home & Garden,2024-04-14,Credit Card,0847 Ronald Cove Apt. 735,Lake Wendybury,Sierra Leone,SUMMER20,1,33,33,7,26
+69526,Urban Goods,5362,55,119,Clothing,2024-03-29,Credit Card,43487 Herman Manors,Smithstad,Burundi,None,5,155,775,0,775
+58928,Urban Goods,2122,59,191,Electronics,2024-03-27,PayPal,59389 Denise Squares Apt. 932,West Christinebury,Estonia,SUMMER20,5,150,750,150,600
+13688,Basic Depot,8593,65,120,Electronics,2024-04-04,Credit Card,65836 Christy Estates Suite 446,Jodymouth,Spain,None,3,168,504,0,504
+45966,Basic Depot,9488,29,118,Books,2024-04-03,Credit Card,2084 Ward Points,East Crystal,Argentina,None,2,49,98,0,98
+57069,Urban Goods,5190,39,145,Clothing,2024-04-15,PayPal,5641 Townsend Glens Apt. 063,North Corey,Saint Kitts and Nevis,SPRING10,4,136,544,54,490
+36498,Basic Depot,2390,36,190,Books,2024-04-02,Credit Card,635 Amanda Bridge Apt. 868,South Melaniestad,Mexico,SPRING10,5,76,380,38,342
+14596,Essential Mart,3231,49,176,Electronics,2024-04-24,PayPal,139 Wu Junctions Suite 186,Sethport,Malta,SUMMER20,4,27,108,22,86
+70576,Pure Market,4665,33,106,Clothing,2024-04-02,PayPal,19162 Stone Cape,North Erika,Cuba,SUMMER20,3,145,435,87,348
+72692,Urban Goods,1933,49,133,Clothing,2024-04-24,PayPal,71207 Gregory Forges,Michelleside,United Kingdom,SUMMER20,4,50,200,40,160
+84192,Urban Goods,2544,41,137,Electronics,2024-04-25,PayPal,6300 Jeremy Alley,Brooksview,Costa Rica,None,2,40,80,0,80
+62901,Urban Goods,5855,54,179,Clothing,2024-04-22,Credit Card,929 Lisa Union,South Charles,Costa Rica,SUMMER20,1,118,118,24,94
+91074,Pure Market,2346,53,114,Home & Garden,2024-04-04,Credit Card,883 Brown Islands,Jasonland,Libyan Arab Jamahiriya,SUMMER20,4,139,556,111,445
+15401,Basic Depot,4697,63,102,Home & Garden,2024-04-04,Credit Card,1279 Russo Spur,East Tammy,Georgia,None,5,87,435,0,435
+18230,Pure Market,9921,65,129,Home & Garden,2024-04-06,Credit Card,383 Smith Plaza,Port Erinborough,Niger,FALL15,3,122,366,55,311
+84675,Pure Market,3850,25,120,Electronics,2024-04-17,Credit Card,66641 Terrell Mills Suite 082,East Nicolasland,Nicaragua,None,3,144,432,0,432
+33493,Pure Market,7424,31,170,Books,2024-04-13,Credit Card,685 Greene Locks,Antonioview,Sao Tome and Principe,None,3,24,72,0,72
+96327,Pure Market,7456,36,108,Books,2024-04-05,PayPal,423 Wilson Port,Lake Katie,Liechtenstein,SUMMER20,5,198,990,198,792
+41226,Basic Depot,3130,28,195,Home & Garden,2024-04-10,Credit Card,7742 Thomas Locks,Cardenasfort,Vanuatu,None,5,184,920,0,920
+60907,Urban Goods,5677,62,149,Electronics,2024-04-23,Credit Card,9380 Fields Island,Port Brandon,Bosnia and Herzegovina,SPRING10,2,106,212,21,191
+27216,Pure Market,3529,39,173,Home & Garden,2024-04-13,Credit Card,8253 Warner Extensions,Port Michael,Tonga,SPRING10,5,87,435,44,391
+74114,Pure Market,7892,52,178,Books,2024-04-06,PayPal,51914 Rodriguez Wall,Bradfort,Zambia,SPRING10,5,177,885,88,797
+26147,Essential Mart,8664,31,189,Electronics,2024-04-12,Credit Card,515 Brown Keys,Port Veronicahaven,Paraguay,SPRING10,4,140,560,56,504
+94024,Urban Goods,2933,55,110,Books,2024-03-29,Credit Card,1562 Teresa Junctions Suite 313,South Laura,Malawi,SPRING10,4,33,132,13,119
+64406,Essential Mart,2439,62,194,Home & Garden,2024-03-28,Credit Card,9949 Cannon Parkways,Danielshire,Congo,FALL15,2,72,144,22,122
+83501,Pure Market,7028,56,139,Books,2024-04-14,PayPal,91083 Cain Cliffs,East Laura,Georgia,SUMMER20,2,131,262,52,210
+84940,Pure Market,7000,64,121,Clothing,2024-03-29,PayPal,4845 Padilla Walk,Lake Cameronshire,Albania,FALL15,5,68,340,51,289
+36410,Basic Depot,3723,60,100,Clothing,2024-04-13,PayPal,481 Kimberly Ramp Suite 046,Rogersfort,Equatorial Guinea,FALL15,2,56,112,17,95
+28386,Urban Goods,8011,30,169,Home & Garden,2024-04-05,PayPal,2007 Williams Valleys,Thompsonburgh,Djibouti,FALL15,3,171,513,77,436
+10297,Essential Mart,4615,61,146,Clothing,2024-04-07,Credit Card,3803 Johnston Center Apt. 219,Kellychester,Samoa,None,2,173,346,0,346
+61047,Pure Market,9239,25,171,Clothing,2024-04-17,Credit Card,574 Christopher Vista,Batesmouth,Libyan Arab Jamahiriya,FALL15,1,131,131,20,111
+33579,Basic Depot,7826,61,113,Home & Garden,2024-04-07,PayPal,5063 Diaz Way,Sparksmouth,Ethiopia,SUMMER20,5,85,425,85,340
+45300,Basic Depot,3709,41,125,Clothing,2024-04-21,Credit Card,180 Joseph Plaza Apt. 877,Bryanside,Svalbard & Jan Mayen Islands,SPRING10,2,33,66,7,59
+25809,Pure Market,6453,58,104,Clothing,2024-04-14,Credit Card,177 Michael Islands Suite 052,South Maria,Belize,None,3,76,228,0,228
+12909,Essential Mart,5654,41,123,Books,2024-04-18,PayPal,6124 Hoffman Route,Vegafort,Christmas Island,FALL15,4,70,280,42,238
+84511,Pure Market,7775,45,167,Clothing,2024-04-12,Credit Card,8450 Gilbert Lights Suite 122,Jamesview,Kuwait,None,2,91,182,0,182
+77701,Basic Depot,1735,43,149,Electronics,2024-04-01,PayPal,5439 Wilkinson Oval Apt. 826,Lake Crystal,Tokelau,None,2,121,242,0,242
+49559,Urban Goods,3083,47,117,Clothing,2024-04-20,Credit Card,6045 Gordon Crossroad Apt. 135,North Elijah,Ukraine,SUMMER20,4,24,96,19,77
+92894,Urban Goods,9926,43,180,Clothing,2024-03-27,Credit Card,584 Richardson Passage Apt. 533,Amandaport,Norfolk Island,SPRING10,2,56,112,11,101
+35876,Pure Market,5641,23,185,Books,2024-04-14,Credit Card,1851 Wolfe Mall Suite 336,Thompsontown,Cape Verde,SPRING10,2,32,64,6,58
+47360,Basic Depot,4696,64,186,Home & Garden,2024-03-28,PayPal,92939 Moran Manor Apt. 937,Port Samantha,Dominican Republic,FALL15,3,106,318,48,270
+19648,Basic Depot,8009,51,178,Books,2024-04-10,Credit Card,72335 Smith Court,Jenniferfort,Papua New Guinea,SUMMER20,2,35,70,14,56
+12179,Essential Mart,9545,57,107,Home & Garden,2024-04-25,Credit Card,085 Green Cape Apt. 683,Port Deniseton,Norway,None,1,120,120,0,120
+15359,Urban Goods,5261,57,168,Home & Garden,2024-04-03,Credit Card,9451 Nicholas Cape,Emilyhaven,Bhutan,None,1,86,86,0,86
+98556,Basic Depot,3811,43,199,Clothing,2024-04-25,Credit Card,760 Moreno Circle Apt. 921,Jennifertown,Saint Martin,None,5,32,160,0,160
+55071,Basic Depot,5593,61,152,Books,2024-04-13,PayPal,6161 Justin Road Apt. 933,Anthonyville,Vietnam,SPRING10,1,116,116,12,104
+83875,Basic Depot,1137,40,172,Books,2024-04-19,Credit Card,07839 Leonard Streets Suite 356,Port Rebecca,Holy See (Vatican City State),FALL15,4,91,364,55,309
+82637,Essential Mart,5778,23,120,Clothing,2024-04-06,PayPal,8987 Daniel Run,Joshuahaven,Swaziland,SPRING10,1,51,51,5,46
+12041,Essential Mart,8320,63,130,Clothing,2024-04-02,Credit Card,9807 Raymond Fall,Port Jonathan,Sudan,None,4,126,504,0,504
+77946,Pure Market,1427,34,178,Clothing,2024-04-03,Credit Card,5718 James Shores Apt. 746,North Ashleybury,Iceland,SPRING10,2,81,162,16,146
+22274,Urban Goods,9335,29,109,Clothing,2024-04-15,Credit Card,6711 Miller Alley Suite 944,Jennifershire,Finland,SPRING10,3,177,531,53,478
+74806,Basic Depot,9243,45,110,Electronics,2024-04-20,PayPal,86119 Reginald Bypass,East Anthonyfort,Italy,SUMMER20,3,194,582,116,466
+58813,Essential Mart,8248,63,187,Clothing,2024-04-23,PayPal,7389 Harris Trail Apt. 030,Clintonport,Swaziland,None,5,107,535,0,535
+51456,Essential Mart,9760,43,168,Books,2024-04-21,PayPal,56158 Adams Squares,South Christopher,Trinidad and Tobago,SPRING10,1,44,44,4,40
+30295,Essential Mart,3075,38,107,Books,2024-04-17,PayPal,858 Jessica Parkway Suite 704,Port Samuel,Togo,FALL15,1,186,186,28,158
+60475,Essential Mart,9882,60,173,Electronics,2024-04-17,PayPal,055 Washington Flat Suite 719,West Philip,Saint Kitts and Nevis,None,4,154,616,0,616
+86571,Urban Goods,8501,42,154,Electronics,2024-04-22,PayPal,3074 Melissa Tunnel Suite 593,South Nicholasstad,Poland,None,3,29,87,0,87
+55722,Essential Mart,4258,49,105,Electronics,2024-04-16,Credit Card,298 Young Estate Apt. 817,Lake Jessica,Greenland,FALL15,3,53,159,24,135
+46363,Pure Market,6550,41,179,Electronics,2024-04-20,PayPal,837 Bryant Alley,Hannaport,Mozambique,SUMMER20,3,78,234,47,187
+58204,Basic Depot,6021,27,199,Home & Garden,2024-04-02,PayPal,020 Shelia Hollow,Jonesmouth,Palestinian Territory,FALL15,2,148,296,44,252
+95672,Urban Goods,3613,54,140,Books,2024-04-15,PayPal,969 Susan Forges Apt. 824,East Brittanychester,French Southern Territories,None,5,148,740,0,740
+46123,Urban Goods,1302,63,175,Electronics,2024-04-02,Credit Card,75869 Steve Pass,North Alanchester,Croatia,FALL15,2,181,362,54,308
+48008,Pure Market,6149,62,177,Clothing,2024-04-01,PayPal,584 Ramsey Light,Danaport,Switzerland,SUMMER20,3,104,312,62,250
+38955,Basic Depot,8427,42,171,Books,2024-04-11,PayPal,123 Kathleen Lock,New Michellefurt,Saint Kitts and Nevis,None,3,72,216,0,216
+88866,Pure Market,9727,45,151,Electronics,2024-04-11,Credit Card,793 Clark Radial,Nicholsonside,Tajikistan,SUMMER20,4,175,700,140,560
+11582,Urban Goods,3169,53,171,Clothing,2024-03-30,Credit Card,0853 Bryan Extension,Raymondchester,Sudan,None,1,81,81,0,81
+61808,Pure Market,7133,47,164,Electronics,2024-04-15,PayPal,35825 Smith Drives Suite 355,North Andrew,Seychelles,SPRING10,2,150,300,30,270
+33805,Essential Mart,6915,37,188,Clothing,2024-04-08,Credit Card,287 John Trace Apt. 399,Alexandrafort,Slovenia,SUMMER20,4,142,568,114,454
+99736,Pure Market,5205,55,107,Clothing,2024-04-24,PayPal,825 Brown Crescent Apt. 874,Bradleyside,Kazakhstan,FALL15,1,165,165,25,140
+93235,Pure Market,5889,55,179,Books,2024-04-20,Credit Card,855 Kevin Path Apt. 601,Port Phillip,Nauru,None,1,70,70,0,70
+57257,Essential Mart,4844,34,123,Home & Garden,2024-04-09,Credit Card,58257 Elizabeth Inlet,Ginaton,Ethiopia,FALL15,5,55,275,41,234
+29041,Pure Market,1761,61,198,Clothing,2024-04-02,PayPal,999 Blevins Extensions,New Alan,Estonia,None,2,88,176,0,176
+90535,Pure Market,4990,51,191,Home & Garden,2024-04-17,Credit Card,27593 Shawna Meadow Suite 878,Lechester,Nepal,SPRING10,4,126,504,50,454
+55376,Essential Mart,8288,57,111,Electronics,2024-04-15,Credit Card,9289 Mario Junctions,East Andrew,Cayman Islands,FALL15,2,180,360,54,306
+82792,Essential Mart,2319,44,106,Electronics,2024-04-20,Credit Card,0791 Mary Square,Lake Michael,Spain,SPRING10,5,92,460,46,414
+86048,Pure Market,2115,58,194,Books,2024-04-11,PayPal,5189 Amanda Vista,Lake Laurie,French Southern Territories,FALL15,4,169,676,101,575
+24631,Essential Mart,1991,33,123,Books,2024-04-19,Credit Card,4218 James Plains Suite 135,Lake Rachel,Cameroon,SPRING10,3,86,258,26,232
+81933,Urban Goods,7207,24,111,Home & Garden,2024-04-14,Credit Card,24702 Dominique Loop Suite 442,Stokeston,Czech Republic,SPRING10,3,36,108,11,97
+13763,Pure Market,7547,30,170,Home & Garden,2024-04-20,Credit Card,2866 Harris Brooks,Lake Juantown,Greece,FALL15,1,198,198,30,168
+60219,Urban Goods,7221,26,157,Home & Garden,2024-04-06,PayPal,7047 Farley River,Lake Sarashire,Aruba,SPRING10,3,26,78,8,70
+64071,Pure Market,5823,53,111,Home & Garden,2024-04-06,Credit Card,92117 Bridget Spring,Lake Saraview,Bermuda,FALL15,1,54,54,8,46
+62460,Urban Goods,6832,50,196,Clothing,2024-04-22,Credit Card,374 Woodward Crossing Suite 231,North Daniel,Palestinian Territory,None,2,190,380,0,380
+80202,Essential Mart,7074,26,152,Clothing,2024-04-10,Credit Card,22026 Joshua Field Suite 861,South Kimberlyfort,Central African Republic,FALL15,4,171,684,103,581
+10342,Essential Mart,1344,49,102,Home & Garden,2024-04-12,Credit Card,72112 Gwendolyn Circle Apt. 418,Martinezton,Tanzania,None,4,113,452,0,452
+84302,Pure Market,3057,24,120,Clothing,2024-04-11,PayPal,1544 Coleman Summit,Lake Lanceborough,Mauritius,SUMMER20,4,70,280,56,224
+35652,Urban Goods,9443,31,178,Home & Garden,2024-04-12,Credit Card,4365 Jeffrey Street,Danielfort,Turks and Caicos Islands,SPRING10,1,192,192,19,173
+88361,Basic Depot,1206,49,139,Home & Garden,2024-04-16,PayPal,97431 Lopez Village,Port Katherineland,Korea,SUMMER20,2,94,188,38,150
+10568,Essential Mart,7260,61,148,Books,2024-04-04,PayPal,00930 Williams Causeway Suite 719,Gutierrezhaven,Anguilla,SUMMER20,5,176,880,176,704
+80745,Pure Market,7779,57,154,Electronics,2024-04-01,PayPal,3977 Brown Overpass Suite 318,Port Tracyfort,Bahrain,None,5,121,605,0,605
+10100,Essential Mart,7720,36,194,Home & Garden,2024-04-21,Credit Card,1649 Chandler Shore Suite 355,Hoffmanfort,Luxembourg,FALL15,4,135,540,81,459
+75358,Essential Mart,9151,24,173,Home & Garden,2024-04-13,Credit Card,0468 Simmons Valleys Suite 516,South Richardport,Nicaragua,SUMMER20,2,167,334,67,267
+78701,Urban Goods,7679,32,198,Home & Garden,2024-04-10,Credit Card,017 Newton Ranch,Johnmouth,Cayman Islands,SUMMER20,4,148,592,118,474
+42036,Essential Mart,5440,51,187,Clothing,2024-04-18,PayPal,43652 Fry Course,Allisonhaven,United Kingdom,SUMMER20,3,92,276,55,221
+28976,Urban Goods,6026,48,113,Books,2024-04-10,Credit Card,879 Rodney Grove,Port Dianaberg,Pakistan,SPRING10,4,138,552,55,497
+23806,Urban Goods,1391,46,141,Books,2024-04-13,Credit Card,1667 Meyer Ways,Tarabury,Norfolk Island,SUMMER20,3,113,339,68,271
+20731,Essential Mart,8469,42,155,Books,2024-04-23,PayPal,929 Robert Square Apt. 741,Port Jon,Gambia,None,2,87,174,0,174
+34966,Pure Market,6322,60,138,Books,2024-03-28,Credit Card,1137 Mandy Ports Apt. 553,New Vanessaton,Portugal,None,4,36,144,0,144
+46004,Essential Mart,9062,24,156,Books,2024-04-07,PayPal,16490 Spencer Trace,Port Michaelfort,New Zealand,SPRING10,3,130,390,39,351
+72698,Essential Mart,8700,22,172,Home & Garden,2024-04-04,Credit Card,822 Joshua Inlet,North Patriciamouth,Greenland,FALL15,3,43,129,19,110
+27636,Urban Goods,5904,46,158,Books,2024-04-24,PayPal,436 Elizabeth Center Apt. 076,Taylorland,Haiti,FALL15,2,121,242,36,206
